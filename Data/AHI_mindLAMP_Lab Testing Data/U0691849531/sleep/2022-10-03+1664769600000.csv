@@ -1,0 +1,4 @@
+timestamp,value,source,representation,duration
+1664793000000,0,com.tantsissa.AutoSleep,in_bed,23400000.0
+1664793000000,1,com.tantsissa.AutoSleep,in_sleep,23400000.0
+1664799547854,0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,in_bed,29673327.862381935

@@ -1,0 +1,10 @@
+timestamp,user_agent,type,device_token,device_type,page,activity,value
+1661661976883,"NativeCore 2022.7.13; iOS 15.5; iPhone iPhone13,3",login,ea07cce1134f56e7bb0eebb63634af7c9d7fb4b4accb5aee87ad13291ff6a1f2,iOS,,,
+1661661978059,,open_page,,,assess,,
+1661667839495,"NativeCore 2022.7.13; iOS 15.5; iPhone iPhone13,3",login,ea07cce1134f56e7bb0eebb63634af7c9d7fb4b4accb5aee87ad13291ff6a1f2,iOS,,,
+1661667840490,,open_page,,,assess,,
+1661668783954,"NativeCore 2022.7.13; iOS 15.5; iPhone iPhone13,3",lowpowermode,,iOS,,,0.0
+1661727353468,"NativeCore 2022.7.13; iOS 15.5; iPhone iPhone13,3",login,ea07cce1134f56e7bb0eebb63634af7c9d7fb4b4accb5aee87ad13291ff6a1f2,iOS,,,
+1661727354674,,open_page,,,assess,,
+1661732623949,"NativeCore 2022.7.13; iOS 15.5; iPhone iPhone13,3",login,ea07cce1134f56e7bb0eebb63634af7c9d7fb4b4accb5aee87ad13291ff6a1f2,iOS,,,
+1661732624911,,open_page,,,assess,,

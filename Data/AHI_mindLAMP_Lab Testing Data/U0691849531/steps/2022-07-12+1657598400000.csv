@@ -1,0 +1,11 @@
+timestamp,value,source,type,unit
+1657611867798,14.0,null,step_count,count
+1657611867798,9.048541121417657,null,distance,meter
+1657611867798,0.961819573792269,null,average_active_pace,seconds per meter
+1657611867798,0.0,null,floors_ascended,count
+1657611867798,0.0,null,floors_descended,count
+1657611869063,14.0,null,step_count,count
+1657611869063,9.048541121417657,null,distance,meter
+1657611869063,0.961819573792269,null,average_active_pace,seconds per meter
+1657611869063,0.0,null,floors_ascended,count
+1657611869063,0.0,null,floors_descended,count

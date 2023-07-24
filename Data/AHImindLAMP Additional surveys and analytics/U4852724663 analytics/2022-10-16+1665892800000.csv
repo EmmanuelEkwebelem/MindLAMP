@@ -1,0 +1,19 @@
+timestamp,user_agent,type,device_token,device_type,page,activity
+1665895222785,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",login,9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS,,
+1665928813712,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",login,9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS,,
+1665942050081,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",login,9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS,,
+1665943455849,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",login,9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS,,
+1665944003962,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",login,9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS,,
+1665947164685,,open_page,,,9vtdfz2xkzztd3hqbyv3,
+1665947245396,,open_page,,,,9vtdfz2xkzztd3hqbyv3
+1665947247375,,open_page,,,,
+1665948368692,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",login,9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS,,
+1665967889073,,open_page,,,9vtdfz2xkzztd3hqbyv3,
+1665967890193,,open_page,,,,
+1665971600957,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",login,9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS,,
+1665977323971,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",login,9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS,,
+1665977324783,,open_page,,,assess,
+1665977327466,,open_page,,,feed,
+1665977354834,,open_page,,,feed,qeyb2b4anm05a3ndn5em
+1665977356008,,open_page,,,feed,
+1665977358978,,open_page,,,,

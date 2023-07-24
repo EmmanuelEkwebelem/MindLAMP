@@ -1,0 +1,6 @@
+timestamp,value,user_agent,type,device_type,message
+1663047878061,0.0,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone10,6",lowpowermode,iOS,
+1663077442420,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone10,6",log,iOS,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 0.)
+1663077469989,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone10,6",log,iOS,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 0.)
+1663087167658,1.0,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone10,6",lowpowermode,iOS,
+1663094485177,0.0,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone10,6",lowpowermode,iOS,

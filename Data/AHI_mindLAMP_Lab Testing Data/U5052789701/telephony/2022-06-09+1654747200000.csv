@@ -1,0 +1,4 @@
+timestamp,duration,type
+1654793679993,33,incoming
+1654799956490,0,missed
+1654806505633,46,outgoing

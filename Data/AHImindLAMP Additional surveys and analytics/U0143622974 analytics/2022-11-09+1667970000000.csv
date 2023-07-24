@@ -1,0 +1,6 @@
+timestamp,value,user_agent,type,device_type,message,device_token
+1668049708503,1.0,"NativeCore 2022.7.13; iOS 15.5; iPhone iPhone14,3",lowpowermode,iOS,,
+1668056221605,,"NativeCore 2022.7.13; iOS 15.5; iPhone iPhone14,3",log,iOS,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 0.),
+1668056221607,,"NativeCore 2022.7.13; iOS 15.5; iPhone iPhone14,3",log,iOS,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 0.),
+1668056221609,,"NativeCore 2022.7.13; iOS 15.5; iPhone iPhone14,3",log,iOS,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 0.),
+1668056236052,,"NativeCore 2022.7.13; iOS 15.5; iPhone iPhone14,3",login,iOS,,f5e2088fc3a1c61249ac3788f067ade4520e43eafd3d75e197e9ff7625674266

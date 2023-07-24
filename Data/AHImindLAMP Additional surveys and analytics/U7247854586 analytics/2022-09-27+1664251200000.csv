@@ -1,0 +1,4 @@
+timestamp,user_agent,type,device_token,device_type,page,activity
+1664325642340,"NativeCore 2022.7.13; iOS 16.0; iPhone iPhone13,4",login,de021987b5d9e0037c0424e61ec19372bffa8bc44d1b3caa80ec2354ee13577a,iOS,,
+1664325643059,,open_page,,,assess,
+1664325648204,,open_page,,,,

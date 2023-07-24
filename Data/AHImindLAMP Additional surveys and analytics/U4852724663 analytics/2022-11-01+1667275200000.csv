@@ -1,0 +1,6 @@
+timestamp,user_agent,type,device_token,device_type,page,activity
+1667334548997,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",login,9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS,,
+1667347485872,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",login,9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS,,
+1667347490833,,open_page,,,assess,
+1667357418296,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",login,9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS,,
+1667357420041,,open_page,,,assess,

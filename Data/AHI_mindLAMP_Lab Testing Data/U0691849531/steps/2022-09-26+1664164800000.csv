@@ -1,0 +1,770 @@
+timestamp,value,source,type,unit
+1664168028734,14.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664169308751,90.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664169715288,0.0,null,distance,meter
+1664169715288,0.0,null,floors_ascended,count
+1664169715288,0.0,null,floors_descended,count
+1664169716575,0.0,null,distance,meter
+1664169716575,0.0,null,floors_ascended,count
+1664169716575,0.0,null,floors_descended,count
+1664172617781,6.0,null,step_count,count
+1664172617781,4.668107301462442,null,distance,meter
+1664172617781,0.9838728387412845,null,average_active_pace,seconds per meter
+1664172617781,0.0,null,floors_ascended,count
+1664172617781,0.0,null,floors_descended,count
+1664172621627,8.0,null,step_count,count
+1664172621627,5.7338852241809946,null,distance,meter
+1664172621627,1.1717810837405813,null,average_active_pace,seconds per meter
+1664172621627,0.0,null,floors_ascended,count
+1664172621627,0.0,null,floors_descended,count
+1664172787463,187.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664172877068,16.0,null,step_count,count
+1664172877068,11.382508214534028,null,distance,meter
+1664172877068,1.0871736090024695,null,average_active_pace,seconds per meter
+1664172877068,0.0,null,floors_ascended,count
+1664172877068,0.0,null,floors_descended,count
+1664172884769,16.0,null,step_count,count
+1664172884769,11.382508214534028,null,distance,meter
+1664172884769,1.6704125836303954,null,average_active_pace,seconds per meter
+1664172884769,0.0,null,floors_ascended,count
+1664172884769,0.0,null,floors_descended,count
+1664172887338,19.0,null,step_count,count
+1664172887338,13.620641852234257,null,distance,meter
+1664172887338,1.6035544020433157,null,average_active_pace,seconds per meter
+1664172887338,0.0,null,floors_ascended,count
+1664172887338,0.0,null,floors_descended,count
+1664172892472,19.0,null,step_count,count
+1664172892472,13.620641852234257,null,distance,meter
+1664172892472,1.8744952112846016,null,average_active_pace,seconds per meter
+1664172892472,0.0,null,floors_ascended,count
+1664172892472,0.0,null,floors_descended,count
+1664173055484,19.0,null,step_count,count
+1664173055484,13.620641852234257,null,distance,meter
+1664173055484,2.8109739619946557,null,average_active_pace,seconds per meter
+1664173055484,0.0,null,floors_ascended,count
+1664173055484,0.0,null,floors_descended,count
+1664173056765,23.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664173058051,23.0,null,step_count,count
+1664173058051,16.56218891890603,null,distance,meter
+1664173058051,2.466727123739641,null,average_active_pace,seconds per meter
+1664173058051,0.0,null,floors_ascended,count
+1664173058051,0.0,null,floors_descended,count
+1664173058429,29.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664178638149,10.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664181175086,18.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664182375095,27.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664182857658,48.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664184950551,33.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664185206044,8.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664186065409,22.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664192504254,6.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664196571744,26.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664197678884,68.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664197766627,15.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664197766627,15.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664199782122,165.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664199782122,165.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664200213070,31.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664200213070,31.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664200982404,23.0,null,step_count,count
+1664200982404,16.56218891890603,null,distance,meter
+1664200982404,2.5660219021923405,null,average_active_pace,seconds per meter
+1664200982404,0.0,null,floors_ascended,count
+1664200982404,0.0,null,floors_descended,count
+1664200984970,32.0,null,step_count,count
+1664200984970,23.276589831977617,null,distance,meter
+1664200984970,2.2953711766537546,null,average_active_pace,seconds per meter
+1664200984970,0.0,null,floors_ascended,count
+1664200984970,0.0,null,floors_descended,count
+1664200997571,28.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664200997571,28.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664200997804,32.0,null,step_count,count
+1664200997804,23.276589831977617,null,distance,meter
+1664200997804,2.2953711766537546,null,average_active_pace,seconds per meter
+1664200997804,0.0,null,floors_ascended,count
+1664200997804,0.0,null,floors_descended,count
+1664200999088,15.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664200999088,15.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664200999090,38.0,null,step_count,count
+1664200999090,26.154190223285696,null,distance,meter
+1664200999090,2.3027589339360186,null,average_active_pace,seconds per meter
+1664200999090,0.0,null,floors_ascended,count
+1664200999090,0.0,null,floors_descended,count
+1664201877570,43.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664201877570,43.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664203333066,125.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664203333066,125.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664203660806,120.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664203660806,120.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664204313727,17.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664204313727,17.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664206249271,20.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664206249271,20.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664206940901,24.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664206940901,24.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664211861434,38.0,null,step_count,count
+1664211861434,26.154190223285696,null,distance,meter
+1664211861434,2.405506329665701,null,average_active_pace,seconds per meter
+1664211861434,0.0,null,floors_ascended,count
+1664211861434,0.0,null,floors_descended,count
+1664211878117,65.0,null,step_count,count
+1664211878117,43.99531264943653,null,distance,meter
+1664211878117,1.796981469972398,null,average_active_pace,seconds per meter
+1664211878117,0.0,null,floors_ascended,count
+1664211878117,0.0,null,floors_descended,count
+1664211979522,68.0,null,step_count,count
+1664211979522,45.593979533499805,null,distance,meter
+1664211979522,1.7678436532289878,null,average_active_pace,seconds per meter
+1664211979522,0.0,null,floors_ascended,count
+1664211979522,0.0,null,floors_descended,count
+1664211984656,83.0,null,step_count,count
+1664211984656,53.61928729151259,null,distance,meter
+1664211984656,1.6453753587826292,null,average_active_pace,seconds per meter
+1664211984656,0.0,null,floors_ascended,count
+1664211984656,0.0,null,floors_descended,count
+1664212027012,88.0,null,step_count,count
+1664212027012,58.173426717403345,null,distance,meter
+1664212027012,1.7365360641400927,null,average_active_pace,seconds per meter
+1664212027012,0.0,null,floors_ascended,count
+1664212027012,0.0,null,floors_descended,count
+1664212035997,99.0,null,step_count,count
+1664212035997,65.27889776596567,null,distance,meter
+1664212035997,1.6243123152303034,null,average_active_pace,seconds per meter
+1664212035997,0.0,null,floors_ascended,count
+1664212035997,0.0,null,floors_descended,count
+1664212065522,118.0,null,step_count,count
+1664212065522,77.73689547661343,null,distance,meter
+1664212065522,1.498251616397178,null,average_active_pace,seconds per meter
+1664212065522,0.0,null,floors_ascended,count
+1664212065522,1.0,null,floors_descended,count
+1664212087339,146.0,null,step_count,count
+1664212087339,97.75000702569378,null,distance,meter
+1664212087339,1.334434940204012,null,average_active_pace,seconds per meter
+1664212087339,0.0,null,floors_ascended,count
+1664212087339,1.0,null,floors_descended,count
+1664212095042,146.0,null,step_count,count
+1664212095042,97.75000702569378,null,distance,meter
+1664212095042,1.334434940204012,null,average_active_pace,seconds per meter
+1664212095042,0.0,null,floors_ascended,count
+1664212095042,1.0,null,floors_descended,count
+1664212109160,170.0,null,step_count,count
+1664212109160,111.50920000785845,null,distance,meter
+1664212109160,1.3073695907812386,null,average_active_pace,seconds per meter
+1664212109160,0.0,null,floors_ascended,count
+1664212109160,1.0,null,floors_descended,count
+1664212119429,173.0,null,step_count,count
+1664212119429,113.76864920399385,null,distance,meter
+1664212119429,1.362321050162726,null,average_active_pace,seconds per meter
+1664212119429,0.0,null,floors_ascended,count
+1664212119429,1.0,null,floors_descended,count
+1664212188745,285.0,null,step_count,count
+1664212188745,186.51865020822152,null,distance,meter
+1664212188745,1.2065557546422574,null,average_active_pace,seconds per meter
+1664212188745,0.0,null,floors_ascended,count
+1664212188745,1.0,null,floors_descended,count
+1664212195160,287.0,null,step_count,count
+1664212195160,187.64837480630376,null,distance,meter
+1664212195160,1.2066665450580536,null,average_active_pace,seconds per meter
+1664212195160,0.0,null,floors_ascended,count
+1664212195160,1.0,null,floors_descended,count
+1664212210563,315.0,null,step_count,count
+1664212210563,206.68316850590054,null,distance,meter
+1664212210563,1.1712264050031596,null,average_active_pace,seconds per meter
+1664212210563,0.0,null,floors_ascended,count
+1664212210563,1.0,null,floors_descended,count
+1664212220832,321.0,null,step_count,count
+1664212220832,211.07417354747304,null,distance,meter
+1664212220832,1.1621593963094403,null,average_active_pace,seconds per meter
+1664212220832,0.0,null,floors_ascended,count
+1664212220832,1.0,null,floors_descended,count
+1664212224683,334.0,null,step_count,count
+1664212224683,220.11699658702128,null,distance,meter
+1664212224683,1.1460337377281333,null,average_active_pace,seconds per meter
+1664212224683,0.0,null,floors_ascended,count
+1664212224683,1.0,null,floors_descended,count
+1664212238802,335.0,null,step_count,count
+1664212238802,220.1759170074074,null,distance,meter
+1664212238802,1.1459994846678392,null,average_active_pace,seconds per meter
+1664212238802,0.0,null,floors_ascended,count
+1664212238802,1.0,null,floors_descended,count
+1664212288269,250.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664212288269,250.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664212288864,428.0,null,step_count,count
+1664212288864,285.50810366953374,null,distance,meter
+1664212288864,1.0607172962753932,null,average_active_pace,seconds per meter
+1664212288864,0.0,null,floors_ascended,count
+1664212288864,1.0,null,floors_descended,count
+1664212302981,434.0,null,step_count,count
+1664212302981,288.6414907622966,null,distance,meter
+1664212302981,1.0587915643381558,null,average_active_pace,seconds per meter
+1664212302981,0.0,null,floors_ascended,count
+1664212302981,1.0,null,floors_descended,count
+1664212322237,467.0,null,step_count,count
+1664212322237,309.029822423734,null,distance,meter
+1664212322237,1.054682793146067,null,average_active_pace,seconds per meter
+1664212322237,0.0,null,floors_ascended,count
+1664212322237,1.0,null,floors_descended,count
+1664212359460,470.0,null,step_count,count
+1664212359460,311.67295167205157,null,distance,meter
+1664212359460,1.060861142614391,null,average_active_pace,seconds per meter
+1664212359460,0.0,null,floors_ascended,count
+1664212359460,1.0,null,floors_descended,count
+1664212364595,481.0,null,step_count,count
+1664212364595,318.19551255903207,null,distance,meter
+1664212364595,1.0606719918861858,null,average_active_pace,seconds per meter
+1664212364595,0.0,null,floors_ascended,count
+1664212364595,1.0,null,floors_descended,count
+1664212395401,488.0,null,step_count,count
+1664212395401,322.074944197695,null,distance,meter
+1664212395401,1.0590428164337178,null,average_active_pace,seconds per meter
+1664212395401,0.0,null,floors_ascended,count
+1664212395401,1.0,null,floors_descended,count
+1664212409524,521.0,null,step_count,count
+1664212409524,353.35552622919204,null,distance,meter
+1664212409524,1.0062726194245712,null,average_active_pace,seconds per meter
+1664212409524,0.0,null,floors_ascended,count
+1664212409524,1.0,null,floors_descended,count
+1664212414657,526.0,null,step_count,count
+1664212414657,356.3929933089239,null,distance,meter
+1664212414657,1.0037179597008257,null,average_active_pace,seconds per meter
+1664212414657,0.0,null,floors_ascended,count
+1664212414657,1.0,null,floors_descended,count
+1664212428774,546.0,null,step_count,count
+1664212428774,374.1488535012759,null,distance,meter
+1664212428774,0.9881947522591812,null,average_active_pace,seconds per meter
+1664212428774,0.0,null,floors_ascended,count
+1664212428774,1.0,null,floors_descended,count
+1664212448027,555.0,null,step_count,count
+1664212448027,381.01483755375375,null,distance,meter
+1664212448027,0.9897404879216289,null,average_active_pace,seconds per meter
+1664212448027,0.0,null,floors_ascended,count
+1664212448027,1.0,null,floors_descended,count
+1664212458414,537.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664212458414,537.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664212505789,668.0,null,step_count,count
+1664212505789,483.6575350595813,null,distance,meter
+1664212505789,0.8909312434836285,null,average_active_pace,seconds per meter
+1664212505789,0.0,null,floors_ascended,count
+1664212505789,1.0,null,floors_descended,count
+1664212507196,100.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664212507196,100.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664212702820,197.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664212702820,197.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664215533690,11.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664215533690,11.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664216743208,682.0,null,step_count,count
+1664216743208,494.5545030059584,null,distance,meter
+1664216743208,0.8845765177247344,null,average_active_pace,seconds per meter
+1664216743208,0.0,null,floors_ascended,count
+1664216743208,1.0,null,floors_descended,count
+1664216784289,766.0,null,step_count,count
+1664216784289,567.640835369064,null,distance,meter
+1664216784289,0.8394001162607208,null,average_active_pace,seconds per meter
+1664216784289,0.0,null,floors_ascended,count
+1664216784289,1.0,null,floors_descended,count
+1664216821517,767.0,null,step_count,count
+1664216821517,568.2163554473373,null,distance,meter
+1664216821517,0.8392912536960294,null,average_active_pace,seconds per meter
+1664216821517,0.0,null,floors_ascended,count
+1664216821517,1.0,null,floors_descended,count
+1664216847190,819.0,null,step_count,count
+1664216847190,606.5097562102601,null,distance,meter
+1664216847190,0.8279711443424953,null,average_active_pace,seconds per meter
+1664216847190,0.0,null,floors_ascended,count
+1664216847190,1.0,null,floors_descended,count
+1664216881854,824.0,null,step_count,count
+1664216881854,611.0450239055208,null,distance,meter
+1664216881854,0.8454068927255918,null,average_active_pace,seconds per meter
+1664216881854,0.0,null,floors_ascended,count
+1664216881854,1.0,null,floors_descended,count
+1664216899828,854.0,null,step_count,count
+1664216899828,632.6213153166755,null,distance,meter
+1664216899828,0.8422762655074059,null,average_active_pace,seconds per meter
+1664216899828,0.0,null,floors_ascended,count
+1664216899828,1.0,null,floors_descended,count
+1664216904973,858.0,null,step_count,count
+1664216904973,641.1880239813763,null,distance,meter
+1664216904973,0.8363723144596196,null,average_active_pace,seconds per meter
+1664216904973,0.0,null,floors_ascended,count
+1664216904973,1.0,null,floors_descended,count
+1664217003841,1045.0,null,step_count,count
+1664217003841,763.8189153358398,null,distance,meter
+1664217003841,0.8242575346761758,null,average_active_pace,seconds per meter
+1664217003841,1.0,null,floors_ascended,count
+1664217003841,1.0,null,floors_descended,count
+1664217007694,1052.0,null,step_count,count
+1664217007694,768.0067122691253,null,distance,meter
+1664217007694,0.8247462383584977,null,average_active_pace,seconds per meter
+1664217007694,1.0,null,floors_ascended,count
+1664217007694,1.0,null,floors_descended,count
+1664217046206,1108.0,null,step_count,count
+1664217046206,806.2262188804452,null,distance,meter
+1664217046206,0.8253118615361075,null,average_active_pace,seconds per meter
+1664217046206,1.0,null,floors_ascended,count
+1664217046206,1.0,null,floors_descended,count
+1664217048773,1119.0,null,step_count,count
+1664217048773,811.9025113886164,null,distance,meter
+1664217048773,0.8261908534945527,null,average_active_pace,seconds per meter
+1664217048773,1.0,null,floors_ascended,count
+1664217048773,1.0,null,floors_descended,count
+1664217065345,281.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664217065345,281.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664217075731,1151.0,null,step_count,count
+1664217075731,833.1688785671722,null,distance,meter
+1664217075731,0.8320634717425369,null,average_active_pace,seconds per meter
+1664217075731,2.0,null,floors_ascended,count
+1664217075731,1.0,null,floors_descended,count
+1664217087287,1160.0,null,step_count,count
+1664217087287,840.8947936700715,null,distance,meter
+1664217087287,0.8322843616818945,null,average_active_pace,seconds per meter
+1664217087287,2.0,null,floors_ascended,count
+1664217087287,1.0,null,floors_descended,count
+1664217091136,1163.0,null,step_count,count
+1664217091136,842.2279909102072,null,distance,meter
+1664217091136,0.8322351789066118,null,average_active_pace,seconds per meter
+1664217091136,2.0,null,floors_ascended,count
+1664217091136,1.0,null,floors_descended,count
+1664217092422,1163.0,null,step_count,count
+1664217092422,842.2279909102072,null,distance,meter
+1664217092422,0.8322351789066118,null,average_active_pace,seconds per meter
+1664217092422,2.0,null,floors_ascended,count
+1664217092422,1.0,null,floors_descended,count
+1664217096271,1167.0,null,step_count,count
+1664217096271,844.1037600541895,null,distance,meter
+1664217096271,0.8325006381919206,null,average_active_pace,seconds per meter
+1664217096271,2.0,null,floors_ascended,count
+1664217096271,1.0,null,floors_descended,count
+1664217103979,1172.0,null,step_count,count
+1664217103979,846.3205781334254,null,distance,meter
+1664217103979,0.8339699239734807,null,average_active_pace,seconds per meter
+1664217103979,2.0,null,floors_ascended,count
+1664217103979,1.0,null,floors_descended,count
+1664217105258,1172.0,null,step_count,count
+1664217105258,846.3205781334254,null,distance,meter
+1664217105258,0.8339699239734807,null,average_active_pace,seconds per meter
+1664217105258,2.0,null,floors_ascended,count
+1664217105258,1.0,null,floors_descended,count
+1664217123230,1184.0,null,step_count,count
+1664217123230,852.5795402597869,null,distance,meter
+1664217123230,0.8340631244400173,null,average_active_pace,seconds per meter
+1664217123230,2.0,null,floors_ascended,count
+1664217123230,1.0,null,floors_descended,count
+1664217138635,1205.0,null,step_count,count
+1664217138635,880.6616910066805,null,distance,meter
+1664217138635,0.8204224105359239,null,average_active_pace,seconds per meter
+1664217138635,2.0,null,floors_ascended,count
+1664217138635,1.0,null,floors_descended,count
+1664217143770,1208.0,null,step_count,count
+1664217143770,882.1324645400164,null,distance,meter
+1664217143770,0.8265355373204625,null,average_active_pace,seconds per meter
+1664217143770,2.0,null,floors_ascended,count
+1664217143770,1.0,null,floors_descended,count
+1664217146339,1211.0,null,step_count,count
+1664217146339,883.6032380733523,null,distance,meter
+1664217146339,0.8279519847422377,null,average_active_pace,seconds per meter
+1664217146339,2.0,null,floors_ascended,count
+1664217146339,1.0,null,floors_descended,count
+1664217147620,1211.0,null,step_count,count
+1664217147620,883.6032380733523,null,distance,meter
+1664217147620,0.8279519847422377,null,average_active_pace,seconds per meter
+1664217147620,2.0,null,floors_ascended,count
+1664217147620,1.0,null,floors_descended,count
+1664217157890,1230.0,null,step_count,count
+1664217157890,894.4635151057737,null,distance,meter
+1664217157890,0.829470764228413,null,average_active_pace,seconds per meter
+1664217157890,2.0,null,floors_ascended,count
+1664217157890,1.0,null,floors_descended,count
+1664217159175,1233.0,null,step_count,count
+1664217159175,895.9982353144733,null,distance,meter
+1664217159175,0.830333437722405,null,average_active_pace,seconds per meter
+1664217159175,2.0,null,floors_ascended,count
+1664217159175,1.0,null,floors_descended,count
+1664217247752,1374.0,null,step_count,count
+1664217247752,979.0862821688934,null,distance,meter
+1664217247752,0.8441932442066072,null,average_active_pace,seconds per meter
+1664217247752,3.0,null,floors_ascended,count
+1664217247752,3.0,null,floors_descended,count
+1664217255455,1374.0,null,step_count,count
+1664217255455,979.0862821688934,null,distance,meter
+1664217255455,0.8441932442066072,null,average_active_pace,seconds per meter
+1664217255455,3.0,null,floors_ascended,count
+1664217255455,3.0,null,floors_descended,count
+1664217269578,1405.0,null,step_count,count
+1664217269578,999.3786938172998,null,distance,meter
+1664217269578,0.8432891995825674,null,average_active_pace,seconds per meter
+1664217269578,3.0,null,floors_ascended,count
+1664217269578,3.0,null,floors_descended,count
+1664217306804,1407.0,null,step_count,count
+1664217306804,1000.5510495322815,null,distance,meter
+1664217306804,0.8545299661540179,null,average_active_pace,seconds per meter
+1664217306804,3.0,null,floors_ascended,count
+1664217306804,4.0,null,floors_descended,count
+1664217308232,738.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664217308232,738.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664217314507,1413.0,null,step_count,count
+1664217314507,1003.5565432743169,null,distance,meter
+1664217314507,0.9014993449740814,null,average_active_pace,seconds per meter
+1664217314507,3.0,null,floors_ascended,count
+1664217314507,4.0,null,floors_descended,count
+1664217347884,1413.0,null,step_count,count
+1664217347884,1003.5565432743169,null,distance,meter
+1664217347884,0.9345183859354009,null,average_active_pace,seconds per meter
+1664217347884,3.0,null,floors_ascended,count
+1664217347884,4.0,null,floors_descended,count
+1664217363286,1436.0,null,step_count,count
+1664217363286,1019.3726876473229,null,distance,meter
+1664217363286,0.9342452144502308,null,average_active_pace,seconds per meter
+1664217363286,3.0,null,floors_ascended,count
+1664217363286,4.0,null,floors_descended,count
+1664217368458,1440.0,null,step_count,count
+1664217368458,1022.3568658309232,null,distance,meter
+1664217368458,0.9340098847782871,null,average_active_pace,seconds per meter
+1664217368458,3.0,null,floors_ascended,count
+1664217368458,4.0,null,floors_descended,count
+1664217377409,1457.0,null,step_count,count
+1664217377409,1030.4227285523957,null,distance,meter
+1664217377409,0.936821063394768,null,average_active_pace,seconds per meter
+1664217377409,3.0,null,floors_ascended,count
+1664217377409,4.0,null,floors_descended,count
+1664217392816,1461.0,null,step_count,count
+1664217392816,1034.2541010852729,null,distance,meter
+1664217392816,0.9431401096251638,null,average_active_pace,seconds per meter
+1664217392816,4.0,null,floors_ascended,count
+1664217392816,4.0,null,floors_descended,count
+1664217400516,1470.0,null,step_count,count
+1664217400516,1041.5068189485755,null,distance,meter
+1664217400516,0.9408141762067459,null,average_active_pace,seconds per meter
+1664217400516,4.0,null,floors_ascended,count
+1664217400516,4.0,null,floors_descended,count
+1664217400660,62.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664217400660,62.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664217578873,147.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664217578873,147.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664218113094,53.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664218113094,53.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664218964771,49.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664218964771,49.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664219044782,7.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664219044782,7.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664221034630,100.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664221034630,100.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664221328843,19.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664221328843,19.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664221860508,6.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664221860508,6.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664222949648,2.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664222949648,2.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664225971900,1481.0,null,step_count,count
+1664225971900,1048.5089799007692,null,distance,meter
+1664225971900,0.9520334649890193,null,average_active_pace,seconds per meter
+1664225971900,4.0,null,floors_ascended,count
+1664225971900,4.0,null,floors_descended,count
+1664225978316,1488.0,null,step_count,count
+1664225978316,1052.281833747169,null,distance,meter
+1664225978316,0.9535565911531275,null,average_active_pace,seconds per meter
+1664225978316,4.0,null,floors_ascended,count
+1664225978316,4.0,null,floors_descended,count
+1664226037365,1497.0,null,step_count,count
+1664226037365,1057.3686949233816,null,distance,meter
+1664226037365,0.9533437139067799,null,average_active_pace,seconds per meter
+1664226037365,4.0,null,floors_ascended,count
+1664226037365,4.0,null,floors_descended,count
+1664226047631,1510.0,null,step_count,count
+1664226047631,1063.483159714844,null,distance,meter
+1664226047631,0.9556961489887895,null,average_active_pace,seconds per meter
+1664226047631,4.0,null,floors_ascended,count
+1664226047631,4.0,null,floors_descended,count
+1664226070736,1513.0,null,step_count,count
+1664226070736,1065.5320754850109,null,distance,meter
+1664226070736,0.9584420198849563,null,average_active_pace,seconds per meter
+1664226070736,4.0,null,floors_ascended,count
+1664226070736,4.0,null,floors_descended,count
+1664226072019,1514.0,null,step_count,count
+1664226072019,1065.614715560252,null,distance,meter
+1664226072019,0.9585650842230293,null,average_active_pace,seconds per meter
+1664226072019,4.0,null,floors_ascended,count
+1664226072019,4.0,null,floors_descended,count
+1664226072377,77.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664226072377,77.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664226078437,1519.0,null,step_count,count
+1664226078437,1068.5314250894007,null,distance,meter
+1664226078437,0.9586417273424827,null,average_active_pace,seconds per meter
+1664226078437,4.0,null,floors_ascended,count
+1664226078437,4.0,null,floors_descended,count
+1664226079720,1520.0,null,step_count,count
+1664226079720,1068.6841559776512,null,distance,meter
+1664226079720,0.958645729163921,null,average_active_pace,seconds per meter
+1664226079720,4.0,null,floors_ascended,count
+1664226079720,4.0,null,floors_descended,count
+1664226109245,1525.0,null,step_count,count
+1664226109245,1071.782947098749,null,distance,meter
+1664226109245,0.9585411268060774,null,average_active_pace,seconds per meter
+1664226109245,4.0,null,floors_ascended,count
+1664226109245,4.0,null,floors_descended,count
+1664226111812,1526.0,null,step_count,count
+1664226111812,1071.9454364211415,null,distance,meter
+1664226111812,0.9585356585267539,null,average_active_pace,seconds per meter
+1664226111812,4.0,null,floors_ascended,count
+1664226111812,4.0,null,floors_descended,count
+1664226116947,1532.0,null,step_count,count
+1664226116947,1075.702514534787,null,distance,meter
+1664226116947,0.9584475236630846,null,average_active_pace,seconds per meter
+1664226116947,4.0,null,floors_ascended,count
+1664226116947,4.0,null,floors_descended,count
+1664226118228,1533.0,null,step_count,count
+1664226118228,1075.8994725144003,null,distance,meter
+1664226118228,0.9584429203334079,null,average_active_pace,seconds per meter
+1664226118228,4.0,null,floors_ascended,count
+1664226118228,4.0,null,floors_descended,count
+1664226145186,1545.0,null,step_count,count
+1664226145186,1082.6551435237925,null,distance,meter
+1664226145186,0.9610177176623871,null,average_active_pace,seconds per meter
+1664226145186,4.0,null,floors_ascended,count
+1664226145186,4.0,null,floors_descended,count
+1664226152888,1555.0,null,step_count,count
+1664226152888,1089.0511720806244,null,distance,meter
+1664226152888,0.959686273456511,null,average_active_pace,seconds per meter
+1664226152888,4.0,null,floors_ascended,count
+1664226152888,4.0,null,floors_descended,count
+1664226163155,1565.0,null,step_count,count
+1664226163155,1097.802696688217,null,distance,meter
+1664226163155,0.9566011495141082,null,average_active_pace,seconds per meter
+1664226163155,4.0,null,floors_ascended,count
+1664226163155,4.0,null,floors_descended,count
+1664226165726,1571.0,null,step_count,count
+1664226165726,1102.630125589756,null,distance,meter
+1664226165726,0.9547212287799361,null,average_active_pace,seconds per meter
+1664226165726,4.0,null,floors_ascended,count
+1664226165726,4.0,null,floors_descended,count
+1664226165853,97.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664226165853,97.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664226173426,1572.0,null,step_count,count
+1664226173426,1102.8636539589206,null,distance,meter
+1664226173426,0.9546321503870284,null,average_active_pace,seconds per meter
+1664226173426,4.0,null,floors_ascended,count
+1664226173426,4.0,null,floors_descended,count
+1664226182409,1586.0,null,step_count,count
+1664226182409,1113.7878776667058,null,distance,meter
+1664226182409,0.9516616583855327,null,average_active_pace,seconds per meter
+1664226182409,4.0,null,floors_ascended,count
+1664226182409,4.0,null,floors_descended,count
+1664226363402,1594.0,null,step_count,count
+1664226363402,1118.225389398489,null,distance,meter
+1664226363402,0.9537882641103701,null,average_active_pace,seconds per meter
+1664226363402,4.0,null,floors_ascended,count
+1664226363402,4.0,null,floors_descended,count
+1664226372386,1605.0,null,step_count,count
+1664226372386,1123.7422434648033,null,distance,meter
+1664226372386,0.9541546410564462,null,average_active_pace,seconds per meter
+1664226372386,4.0,null,floors_ascended,count
+1664226372386,4.0,null,floors_descended,count
+1664226413462,1607.0,null,step_count,count
+1664226413462,1124.7653902705933,null,distance,meter
+1664226413462,0.9544100805764973,null,average_active_pace,seconds per meter
+1664226413462,4.0,null,floors_ascended,count
+1664226413462,4.0,null,floors_descended,count
+1664226425014,1629.0,null,step_count,count
+1664226425014,1140.080619019951,null,distance,meter
+1664226425014,0.9514230454525368,null,average_active_pace,seconds per meter
+1664226425014,4.0,null,floors_ascended,count
+1664226425014,4.0,null,floors_descended,count
+1664226468657,1640.0,null,step_count,count
+1664226468657,1145.93061081419,null,distance,meter
+1664226468657,0.9522027940182968,null,average_active_pace,seconds per meter
+1664226468657,4.0,null,floors_ascended,count
+1664226468657,4.0,null,floors_descended,count
+1664226471225,1641.0,null,step_count,count
+1664226471225,1146.6198753757053,null,distance,meter
+1664226471225,0.9523706645378364,null,average_active_pace,seconds per meter
+1664226471225,4.0,null,floors_ascended,count
+1664226471225,4.0,null,floors_descended,count
+1664226489194,1648.0,null,step_count,count
+1664226489194,1152.805893994111,null,distance,meter
+1664226489194,0.9497322233311533,null,average_active_pace,seconds per meter
+1664226489194,4.0,null,floors_ascended,count
+1664226489194,4.0,null,floors_descended,count
+1664226499464,0.9500079910357094,null,average_active_pace,seconds per meter
+1664226499464,4.0,null,floors_ascended,count
+1664226499464,4.0,null,floors_descended,count
+1664226505882,1666.0,null,step_count,count
+1664226505882,1162.739057656785,null,distance,meter
+1664226505882,0.9504943285469614,null,average_active_pace,seconds per meter
+1664226505882,4.0,null,floors_ascended,count
+1664226505882,4.0,null,floors_descended,count
+1664226513583,1680.0,null,step_count,count
+1664226513583,1169.7518763882108,null,distance,meter
+1664226513583,0.9507628401032298,null,average_active_pace,seconds per meter
+1664226513583,4.0,null,floors_ascended,count
+1664226513583,4.0,null,floors_descended,count
+1664226523851,1685.0,null,step_count,count
+1664226523851,1172.1605344935379,null,distance,meter
+1664226523851,0.951221770678692,null,average_active_pace,seconds per meter
+1664226523851,4.0,null,floors_ascended,count
+1664226523851,4.0,null,floors_descended,count
+1664226527705,1694.0,null,step_count,count
+1664226527705,1177.9013084293401,null,distance,meter
+1664226527705,0.9514873254124001,null,average_active_pace,seconds per meter
+1664226527705,4.0,null,floors_ascended,count
+1664226527705,4.0,null,floors_descended,count
+1664226561078,1700.0,null,step_count,count
+1664226561078,1182.40966205718,null,distance,meter
+1664226561078,0.9583161462463068,null,average_active_pace,seconds per meter
+1664226561078,4.0,null,floors_ascended,count
+1664226561078,4.0,null,floors_descended,count
+1664226579053,1722.0,null,step_count,count
+1664226579053,1196.9398711965187,null,distance,meter
+1664226579053,0.9603675380255545,null,average_active_pace,seconds per meter
+1664226579053,4.0,null,floors_ascended,count
+1664226579053,4.0,null,floors_descended,count
+1664226621407,1722.0,null,step_count,count
+1664226621407,1196.9398711965187,null,distance,meter
+1664226621407,0.9673383375873962,null,average_active_pace,seconds per meter
+1664226621407,4.0,null,floors_ascended,count
+1664226621407,5.0,null,floors_descended,count
+1664226670185,1804.0,null,step_count,count
+1664226670185,1297.4554697723943,null,distance,meter
+1664226670185,0.9298688140086175,null,average_active_pace,seconds per meter
+1664226670185,4.0,null,floors_ascended,count
+1664226670185,5.0,null,floors_descended,count
+1664226674037,1810.0,null,step_count,count
+1664226674037,1301.6120036709763,null,distance,meter
+1664226674037,0.9292107005364902,null,average_active_pace,seconds per meter
+1664226674037,4.0,null,floors_ascended,count
+1664226674037,5.0,null,floors_descended,count
+1664226734369,1884.0,null,step_count,count
+1664226734369,1352.2044816620473,null,distance,meter
+1664226734369,0.9380814236869721,null,average_active_pace,seconds per meter
+1664226734369,4.0,null,floors_ascended,count
+1664226734369,6.0,null,floors_descended,count
+1664226735654,1884.0,null,step_count,count
+1664226735654,1352.2044816620473,null,distance,meter
+1664226735654,0.9398316761457134,null,average_active_pace,seconds per meter
+1664226735654,4.0,null,floors_ascended,count
+1664226735654,6.0,null,floors_descended,count
+1664226766592,214.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664226766592,214.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664226771727,370.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664226771727,370.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664226774162,1942.0,null,step_count,count
+1664226774162,1392.5228604781732,null,distance,meter
+1664226774162,0.9403890024068123,null,average_active_pace,seconds per meter
+1664226774162,4.0,null,floors_ascended,count
+1664226774162,6.0,null,floors_descended,count
+1664226778012,1942.0,null,step_count,count
+1664226778012,1392.5228604781732,null,distance,meter
+1664226778012,0.9403890024068123,null,average_active_pace,seconds per meter
+1664226778012,4.0,null,floors_ascended,count
+1664226778012,6.0,null,floors_descended,count
+1664226831922,2021.0,null,step_count,count
+1664226831922,1457.0450559190067,null,distance,meter
+1664226831922,0.9321255511378955,null,average_active_pace,seconds per meter
+1664226831922,4.0,null,floors_ascended,count
+1664226831922,6.0,null,floors_descended,count
+1664226833206,2021.0,null,step_count,count
+1664226833206,1457.0450559190067,null,distance,meter
+1664226833206,0.9321255511378955,null,average_active_pace,seconds per meter
+1664226833206,4.0,null,floors_ascended,count
+1664226833206,6.0,null,floors_descended,count
+1664226837056,2027.0,null,step_count,count
+1664226837056,1462.4165766494698,null,distance,meter
+1664226837056,0.9310194863884366,null,average_active_pace,seconds per meter
+1664226837056,4.0,null,floors_ascended,count
+1664226837056,6.0,null,floors_descended,count
+1664226864013,2037.0,null,step_count,count
+1664226864013,1467.6179626857338,null,distance,meter
+1664226864013,0.9314667463237662,null,average_active_pace,seconds per meter
+1664226864013,4.0,null,floors_ascended,count
+1664226864013,6.0,null,floors_descended,count
+1664226887113,2075.0,null,step_count,count
+1664226887113,1491.5194696216204,null,distance,meter
+1664226887113,0.9303469673020087,null,average_active_pace,seconds per meter
+1664226887113,4.0,null,floors_ascended,count
+1664226887113,6.0,null,floors_descended,count
+1664226901232,2078.0,null,step_count,count
+1664226901232,1492.885418994847,null,distance,meter
+1664226901232,0.9305838943008126,null,average_active_pace,seconds per meter
+1664226901232,4.0,null,floors_ascended,count
+1664226901232,6.0,null,floors_descended,count
+1664226914068,2100.0,null,step_count,count
+1664226914068,1506.3461941586575,null,distance,meter
+1664226914068,0.932027646946245,null,average_active_pace,seconds per meter
+1664226914068,4.0,null,floors_ascended,count
+1664226914068,6.0,null,floors_descended,count
+1664226989801,2111.0,null,step_count,count
+1664226989801,1516.2668458003027,null,distance,meter
+1664226989801,0.9332943234573864,null,average_active_pace,seconds per meter
+1664226989801,4.0,null,floors_ascended,count
+1664226989801,6.0,null,floors_descended,count
+1664227025738,2173.0,null,step_count,count
+1664227025738,1559.1554902288772,null,distance,meter
+1664227025738,0.9291444459140121,null,average_active_pace,seconds per meter
+1664227025738,4.0,null,floors_ascended,count
+1664227025738,6.0,null,floors_descended,count
+1664227033438,2176.0,null,step_count,count
+1664227033438,1560.4983704114857,null,distance,meter
+1664227033438,0.9294372897000286,null,average_active_pace,seconds per meter
+1664227033438,4.0,null,floors_ascended,count
+1664227033438,6.0,null,floors_descended,count
+1664227042423,2192.0,null,step_count,count
+1664227042423,1572.4990298212215,null,distance,meter
+1664227042423,0.927369318429035,null,average_active_pace,seconds per meter
+1664227042423,4.0,null,floors_ascended,count
+1664227042423,6.0,null,floors_descended,count
+1664227073229,2197.0,null,step_count,count
+1664227073229,1575.056896835711,null,distance,meter
+1664227073229,0.9276205695911744,null,average_active_pace,seconds per meter
+1664227073229,4.0,null,floors_ascended,count
+1664227073229,6.0,null,floors_descended,count
+1664227077215,273.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664227077215,273.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664227078363,2215.0,null,step_count,count
+1664227078363,1590.3614678058366,null,distance,meter
+1664227078363,0.9278237842044155,null,average_active_pace,seconds per meter
+1664227078363,4.0,null,floors_ascended,count
+1664227078363,6.0,null,floors_descended,count
+1664227210469,233.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664227210469,233.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664228032774,45.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664228032774,45.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664228650727,25.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664228650727,25.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664228698588,304.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664228698588,304.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664229317572,120.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664229317572,120.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664229685148,283.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664229685148,283.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664229990870,348.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664229990870,348.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664230172858,48.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664230172858,48.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664230666713,343.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664230666713,343.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664231352967,289.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664231352967,289.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664231579511,536.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664231579511,536.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664231832994,293.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664231832994,293.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664231872138,354.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664231872138,354.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664233176969,96.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664233176969,96.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664233413438,22.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664233413438,22.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664234191093,6.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664234191093,6.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664238002510,47.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664238002510,47.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664239642755,21.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664239642755,21.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664243028608,94.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664243028608,94.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664243030190,33.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664243030190,33.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664249460502,22.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664249460502,22.0,com.apple.health.D17A2FE9-7523-4343-B53F-D8022C34B518,step_count,count
+1664249550482,100.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664249550482,100.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664250957253,14.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count
+1664250957253,14.0,com.apple.health.E49411CE-803E-4ECE-B5A4-53BCEB739E00,step_count,count

@@ -1,0 +1,3 @@
+timestamp,type,device_token,device_type,user_agent,page,activity
+1668276972538,login,e4D0NLZNQaqIluaKL3LhUj:APA91bE0t4qaEtfxDpTraPQQ-qD4PqvRQOrRXylkRYBaecEdNwd_b9kzSV3EkcfT9xozYmst4T6FSltCSFHop97C-M2SRxPexiqiyb6VEkmAI-DCUhWFHQbLiOQKyDJt2l19ts9DcHNa,Android,NativeCore 2022.11.03; Android 13; Google; Pixel 5,,
+1668277000523,open_page,,,,,

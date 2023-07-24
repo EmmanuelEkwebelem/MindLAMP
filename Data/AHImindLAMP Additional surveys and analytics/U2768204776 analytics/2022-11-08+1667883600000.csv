@@ -1,0 +1,12 @@
+timestamp,type,device_token,device_type,user_agent,page,activity
+1667933126832,login,e4D0NLZNQaqIluaKL3LhUj:APA91bE0t4qaEtfxDpTraPQQ-qD4PqvRQOrRXylkRYBaecEdNwd_b9kzSV3EkcfT9xozYmst4T6FSltCSFHop97C-M2SRxPexiqiyb6VEkmAI-DCUhWFHQbLiOQKyDJt2l19ts9DcHNa,Android,NativeCore 2022.9.13_2; Android 13; Google; Pixel 5,,
+1667933126850,login,,Dashboard,"LAMP-dashboard/2022.11.7 Mozilla/5.0 (Linux; Android 13; Pixel 5 Build/TP1A.221005.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.126 Mobile Safari/537.36",,
+1667933165339,open_page,,,,,
+1667933171873,open_page,,,,assess,
+1667933175966,open_page,,,,,
+1667933335714,login,e4D0NLZNQaqIluaKL3LhUj:APA91bE0t4qaEtfxDpTraPQQ-qD4PqvRQOrRXylkRYBaecEdNwd_b9kzSV3EkcfT9xozYmst4T6FSltCSFHop97C-M2SRxPexiqiyb6VEkmAI-DCUhWFHQbLiOQKyDJt2l19ts9DcHNa,Android,NativeCore 2022.9.13_2; Android 13; Google; Pixel 5,,
+1667933380119,open_page,,,,,
+1667935994028,open_page,,,,assess,
+1667936000863,open_page,,,,,
+1667959756085,login,e4D0NLZNQaqIluaKL3LhUj:APA91bE0t4qaEtfxDpTraPQQ-qD4PqvRQOrRXylkRYBaecEdNwd_b9kzSV3EkcfT9xozYmst4T6FSltCSFHop97C-M2SRxPexiqiyb6VEkmAI-DCUhWFHQbLiOQKyDJt2l19ts9DcHNa,Android,NativeCore 2022.9.13_2; Android 13; Google; Pixel 5,,
+1667959785549,open_page,,,,,

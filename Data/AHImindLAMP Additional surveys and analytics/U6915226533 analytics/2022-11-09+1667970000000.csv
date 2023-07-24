@@ -1,0 +1,47 @@
+timestamp,type,page,activity,user_agent,device_token,device_type,message
+1667988806482,open_page,assess,,,,,
+1667988816936,open_page,,,,,,
+1667989177828,open_page,assess,,,,,
+1667989181315,open_page,,,,,,
+1667989568163,open_page,assess,,,,,
+1667989571631,open_page,,,,,,
+1667989792959,open_page,assess,,,,,
+1667989796170,open_page,,,,,,
+1667991768562,login,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",00c4e09b1ff078574b3c64f607cdaf860b6f081d0d9553b36a0bbd4d29f102c0,iOS,
+1667991774821,open_page,,,,,,
+1667994749630,login,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",00c4e09b1ff078574b3c64f607cdaf860b6f081d0d9553b36a0bbd4d29f102c0,iOS,
+1667994756189,open_page,,,,,,
+1667996350960,open_page,assess,,,,,
+1667996353555,open_page,,,,,,
+1667997946184,open_page,assess,,,,,
+1667997950542,open_page,,,,,,
+1667998657409,open_page,assess,,,,,
+1667998660302,open_page,,,,,,
+1667998933804,open_page,assess,,,,,
+1667998937644,open_page,,,,,,
+1668002025315,open_page,assess,,,,,
+1668002028437,open_page,,,,,,
+1668002548082,open_page,assess,,,,,
+1668002551116,open_page,,,,,,
+1668004218428,open_page,assess,,,,,
+1668004220545,open_page,,,,,,
+1668014996671,open_page,assess,,,,,
+1668014998964,open_page,,,,,,
+1668021130765,login,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",00c4e09b1ff078574b3c64f607cdaf860b6f081d0d9553b36a0bbd4d29f102c0,iOS,
+1668021134369,open_page,,,,,,
+1668025471772,open_page,assess,,,,,
+1668025484049,login,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",00c4e09b1ff078574b3c64f607cdaf860b6f081d0d9553b36a0bbd4d29f102c0,iOS,
+1668025490640,log,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",,iOS,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 1.)
+1668025905878,login,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",00c4e09b1ff078574b3c64f607cdaf860b6f081d0d9553b36a0bbd4d29f102c0,iOS,
+1668025916197,log,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",,iOS,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 1.)
+1668026175809,log,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",,iOS,GPS is denied.
+1668026175822,log,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",,iOS,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 1.)
+1668026177216,login,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",00c4e09b1ff078574b3c64f607cdaf860b6f081d0d9553b36a0bbd4d29f102c0,iOS,
+1668026186012,open_page,,,,,,
+1668026186077,log,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",,iOS,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 1.)
+1668027175068,log,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",,iOS,GPS is denied.
+1668027177770,login,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",00c4e09b1ff078574b3c64f607cdaf860b6f081d0d9553b36a0bbd4d29f102c0,iOS,
+1668027179935,log,,,"NativeCore 2022.7.13; iOS 16.0.3; iPhone iPhone12,8",,iOS,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 1.)
+1668027179939,open_page,,,,,,
+1668041339780,open_page,assess,,,,,
+1668041353338,open_page,,,,,,

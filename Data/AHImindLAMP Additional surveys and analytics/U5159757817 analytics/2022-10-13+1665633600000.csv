@@ -1,0 +1,13 @@
+timestamp,type,device_token,device_type,user_agent,page,activity
+1665665965207,login,d6BAVBdgSCi2nujX0WmrkQ:APA91bExlCj-itl8fwC85I7wb6rUFHB7EPtfi9gkyTF_PH5HajJRy4FCu1wdqaA7ioC66H8rW86yBfiEFVjpV0N4P0_kyPEBso_TugWAH4ifunH7tSsHoXecCaQLPGTNv3MxSGr42mJw,Android,NativeCore 2022.4.25; Android 12; samsung; SM-G998U1,,
+1665665965217,login,,Dashboard,"LAMP-dashboard/dev Mozilla/5.0 (Linux; Android 12; SM-G998U1 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.136 Mobile Safari/537.36",,
+1665665967186,open_page,,,,assess,
+1665665998874,open_page,,,,,
+1665665998994,logout,,Dashboard,"LAMP-dashboard/dev Mozilla/5.0 (Linux; Android 12; SM-G998U1 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.136 Mobile Safari/537.36",,
+1665665999091,logout,,Android,NativeCore 2022.4.25; Android 12; samsung; SM-G998U1,,
+1665667007379,login,flD-gFnYROm7RhvSdrP5LF:APA91bETFbjOn3CN-5zeTUK2lk0fz2yNAdPDPj40T3i9j7th-pn3QNGAO16ve9xT5WPff3izMxHF09ZZpvVj2x3vUHhgUkwkw0U-ntvC23JkcMqF0nvmwQiB-0eVVmGB62I8B_5Nq5Fk,Android,NativeCore 2022.9.13_2; Android 12; samsung; SM-G998U1,,
+1665667007402,login,,Dashboard,"LAMP-dashboard/2022.8.4 Mozilla/5.0 (Linux; Android 12; SM-G998U1 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.136 Mobile Safari/537.36",,
+1665667007723,open_page,,,,assess,
+1665667017423,open_page,,,,,
+1665667017559,logout,,Dashboard,"LAMP-dashboard/2022.8.4 Mozilla/5.0 (Linux; Android 12; SM-G998U1 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.136 Mobile Safari/537.36",,
+1665667017646,logout,,Android,NativeCore 2022.9.13_2; Android 12; samsung; SM-G998U1,,

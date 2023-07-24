@@ -1,0 +1,641 @@
+timestamp,value,source,type,unit
+1658324099460,10.0,null,step_count,count
+1658324099460,7.0,null,distance,meter
+1658324099460,1.7361188616071428,null,average_active_pace,seconds per meter
+1658324099460,0.0,null,floors_ascended,count
+1658324099460,0.0,null,floors_descended,count
+1658324100743,10.0,null,step_count,count
+1658324100743,7.0,null,distance,meter
+1658324100743,1.7361188616071428,null,average_active_pace,seconds per meter
+1658324100743,0.0,null,floors_ascended,count
+1658324100743,0.0,null,floors_descended,count
+1658329317877,17.0,null,step_count,count
+1658329317877,11.0600000000004,null,distance,meter
+1658329317877,1.495940517128861,null,average_active_pace,seconds per meter
+1658329317877,0.0,null,floors_ascended,count
+1658329317877,0.0,null,floors_descended,count
+1658329321721,21.0,null,step_count,count
+1658329321721,13.980000000000473,null,distance,meter
+1658329321721,1.344161449754312,null,average_active_pace,seconds per meter
+1658329321721,0.0,null,floors_ascended,count
+1658329321721,0.0,null,floors_descended,count
+1658329337124,21.0,null,step_count,count
+1658329337124,13.980000000000473,null,distance,meter
+1658329337124,1.344161449754312,null,average_active_pace,seconds per meter
+1658329337124,0.0,null,floors_ascended,count
+1658329337124,0.0,null,floors_descended,count
+1658329358947,61.0,null,step_count,count
+1658329358947,42.06000000000131,null,distance,meter
+1658329358947,1.0361523612362642,null,average_active_pace,seconds per meter
+1658329358947,0.0,null,floors_ascended,count
+1658329358947,0.0,null,floors_descended,count
+1658329378200,64.0,null,step_count,count
+1658329378200,43.63000000000102,null,distance,meter
+1658329378200,1.2117015585941693,null,average_active_pace,seconds per meter
+1658329378200,0.0,null,floors_ascended,count
+1658329378200,1.0,null,floors_descended,count
+1658329379483,70.0,null,step_count,count
+1658329379483,46.75000000000091,null,distance,meter
+1658329379483,1.2093403862121672,null,average_active_pace,seconds per meter
+1658329379483,0.0,null,floors_ascended,count
+1658329379483,1.0,null,floors_descended,count
+1658329433392,81.0,null,step_count,count
+1658329433392,51.48000000000047,null,distance,meter
+1658329433392,1.4390966182729357,null,average_active_pace,seconds per meter
+1658329433392,0.0,null,floors_ascended,count
+1658329433392,1.0,null,floors_descended,count
+1658329459065,117.0,null,step_count,count
+1658329459065,84.69399808068101,null,distance,meter
+1658329459065,1.1108254197901624,null,average_active_pace,seconds per meter
+1658329459065,0.0,null,floors_ascended,count
+1658329459065,1.0,null,floors_descended,count
+1658329462915,118.0,null,step_count,count
+1658329462915,85.21399808068145,null,distance,meter
+1658329462915,1.145470430325911,null,average_active_pace,seconds per meter
+1658329462915,0.0,null,floors_ascended,count
+1658329462915,1.0,null,floors_descended,count
+1658329469332,130.0,null,step_count,count
+1658329469332,94.03399808068207,null,distance,meter
+1658329469332,1.1105462084789794,null,average_active_pace,seconds per meter
+1658329469332,0.0,null,floors_ascended,count
+1658329469332,1.0,null,floors_descended,count
+1658329474467,131.0,null,step_count,count
+1658329474467,94.91399808068218,null,distance,meter
+1658329474467,1.106588902600616,null,average_active_pace,seconds per meter
+1658329474467,0.0,null,floors_ascended,count
+1658329474467,1.0,null,floors_descended,count
+1658329510407,180.0,null,step_count,count
+1658329510407,126.5439980806832,null,distance,meter
+1658329510407,1.0740710426334092,null,average_active_pace,seconds per meter
+1658329510407,0.0,null,floors_ascended,count
+1658329510407,1.0,null,floors_descended,count
+1658329598975,180.0,null,step_count,count
+1658329598975,126.5439980806832,null,distance,meter
+1658329598975,1.0740710426334092,null,average_active_pace,seconds per meter
+1658329598975,0.0,null,floors_ascended,count
+1658329598975,1.0,null,floors_descended,count
+1658329611809,194.0,null,step_count,count
+1658329611809,135.83399808068316,null,distance,meter
+1658329611809,1.0604118266605564,null,average_active_pace,seconds per meter
+1658329611809,0.0,null,floors_ascended,count
+1658329611809,1.0,null,floors_descended,count
+1658329613095,194.0,null,step_count,count
+1658329613095,135.83399808068316,null,distance,meter
+1658329613095,1.0604118266605564,null,average_active_pace,seconds per meter
+1658329613095,0.0,null,floors_ascended,count
+1658329613095,1.0,null,floors_descended,count
+1658329614378,194.0,null,step_count,count
+1658329614378,135.83399808068316,null,distance,meter
+1658329614378,1.0604118266605564,null,average_active_pace,seconds per meter
+1658329614378,0.0,null,floors_ascended,count
+1658329614378,1.0,null,floors_descended,count
+1658329627213,206.0,null,step_count,count
+1658329627213,144.4739980806835,null,distance,meter
+1658329627213,1.0366989821191575,null,average_active_pace,seconds per meter
+1658329627213,0.0,null,floors_ascended,count
+1658329627213,1.0,null,floors_descended,count
+1658329640048,226.0,null,step_count,count
+1658329640048,155.47399808068258,null,distance,meter
+1658329640048,1.032753591843245,null,average_active_pace,seconds per meter
+1658329640048,0.0,null,floors_ascended,count
+1658329640048,1.0,null,floors_descended,count
+1658329652884,230.0,null,step_count,count
+1658329652884,157.59399808068247,null,distance,meter
+1658329652884,1.053604128544993,null,average_active_pace,seconds per meter
+1658329652884,0.0,null,floors_ascended,count
+1658329652884,1.0,null,floors_descended,count
+1658329677275,271.0,null,step_count,count
+1658329677275,183.96399808068327,null,distance,meter
+1658329677275,1.0386383708454816,null,average_active_pace,seconds per meter
+1658329677275,0.0,null,floors_ascended,count
+1658329677275,1.0,null,floors_descended,count
+1658329695244,279.0,null,step_count,count
+1658329695244,190.7239980806835,null,distance,meter
+1658329695244,1.0382101015789948,null,average_active_pace,seconds per meter
+1658329695244,0.0,null,floors_ascended,count
+1658329695244,1.0,null,floors_descended,count
+1658329702947,284.0,null,step_count,count
+1658329702947,193.3639980806838,null,distance,meter
+1658329702947,1.0478920069088942,null,average_active_pace,seconds per meter
+1658329702947,0.0,null,floors_ascended,count
+1658329702947,1.0,null,floors_descended,count
+1658329722198,284.0,null,step_count,count
+1658329722198,193.3639980806838,null,distance,meter
+1658329722198,1.0478920069088942,null,average_active_pace,seconds per meter
+1658329722198,0.0,null,floors_ascended,count
+1658329722198,1.0,null,floors_descended,count
+1658329751723,338.0,null,step_count,count
+1658329751723,226.413998080684,null,distance,meter
+1658329751723,1.0275388763629276,null,average_active_pace,seconds per meter
+1658329751723,0.0,null,floors_ascended,count
+1658329751723,1.0,null,floors_descended,count
+1658329764558,348.0,null,step_count,count
+1658329764558,231.24399808068392,null,distance,meter
+1658329764558,1.0318362584667315,null,average_active_pace,seconds per meter
+1658329764558,1.0,null,floors_ascended,count
+1658329764558,1.0,null,floors_descended,count
+1658329770977,353.0,null,step_count,count
+1658329770977,233.74399808068392,null,distance,meter
+1658329770977,1.0317834435800617,null,average_active_pace,seconds per meter
+1658329770977,1.0,null,floors_ascended,count
+1658329770977,1.0,null,floors_descended,count
+1658330288291,362.0,null,step_count,count
+1658330288291,239.80399808068432,null,distance,meter
+1658330288291,1.0344808002428347,null,average_active_pace,seconds per meter
+1658330288291,1.0,null,floors_ascended,count
+1658330288291,1.0,null,floors_descended,count
+1658330290856,363.0,null,step_count,count
+1658330290856,240.2939980806841,null,distance,meter
+1658330290856,1.0342914474965725,null,average_active_pace,seconds per meter
+1658330290856,1.0,null,floors_ascended,count
+1658330290856,1.0,null,floors_descended,count
+1658330429501,369.0,null,step_count,count
+1658330429501,244.8539980806845,null,distance,meter
+1658330429501,1.048534083427837,null,average_active_pace,seconds per meter
+1658330429501,1.0,null,floors_ascended,count
+1658330429501,1.0,null,floors_descended,count
+1658330433350,369.0,null,step_count,count
+1658330433350,244.8539980806845,null,distance,meter
+1658330433350,1.0575451283695345,null,average_active_pace,seconds per meter
+1658330433350,1.0,null,floors_ascended,count
+1658330433350,1.0,null,floors_descended,count
+1658330880097,369.0,null,step_count,count
+1658330880097,244.8539980806845,null,distance,meter
+1658330880097,1.0575451283695345,null,average_active_pace,seconds per meter
+1658330880097,1.0,null,floors_ascended,count
+1658330880097,1.0,null,floors_descended,count
+1658330887785,383.0,null,step_count,count
+1658330887785,253.81399808068454,null,distance,meter
+1658330887785,1.1138593867394802,null,average_active_pace,seconds per meter
+1658330887785,1.0,null,floors_ascended,count
+1658330887785,1.0,null,floors_descended,count
+1658330903191,386.0,null,step_count,count
+1658330903191,255.9139980806849,null,distance,meter
+1658330903191,1.1458691580719118,null,average_active_pace,seconds per meter
+1658330903191,1.0,null,floors_ascended,count
+1658330903191,1.0,null,floors_descended,count
+1658330954543,470.0,null,step_count,count
+1658330954543,325.938316232593,null,distance,meter
+1658330954543,1.0476995986920015,null,average_active_pace,seconds per meter
+1658330954543,1.0,null,floors_ascended,count
+1658330954543,2.0,null,floors_descended,count
+1658330995624,472.0,null,step_count,count
+1658330995624,331.16441864180524,null,distance,meter
+1658330995624,1.072717354565916,null,average_active_pace,seconds per meter
+1658330995624,1.0,null,floors_ascended,count
+1658330995624,2.0,null,floors_descended,count
+1658331007180,486.0,null,step_count,count
+1658331007180,338.9644186418045,null,distance,meter
+1658331007180,1.0863799277237307,null,average_active_pace,seconds per meter
+1658331007180,1.0,null,floors_ascended,count
+1658331007180,2.0,null,floors_descended,count
+1658331037991,492.0,null,step_count,count
+1658331037991,343.9444186418041,null,distance,meter
+1658331037991,1.0801563953117728,null,average_active_pace,seconds per meter
+1658331037991,1.0,null,floors_ascended,count
+1658331037991,2.0,null,floors_descended,count
+1658331043127,496.0,null,step_count,count
+1658331043127,346.3844186418037,null,distance,meter
+1658331043127,1.0785703844614254,null,average_active_pace,seconds per meter
+1658331043127,1.0,null,floors_ascended,count
+1658331043127,2.0,null,floors_descended,count
+1658331565628,502.0,null,step_count,count
+1658331565628,348.8444186418037,null,distance,meter
+1658331565628,1.1070745487268352,null,average_active_pace,seconds per meter
+1658331565628,1.0,null,floors_ascended,count
+1658331565628,2.0,null,floors_descended,count
+1658331573326,510.0,null,step_count,count
+1658331573326,352.2044186418034,null,distance,meter
+1658331573326,1.1259573068422775,null,average_active_pace,seconds per meter
+1658331573326,1.0,null,floors_ascended,count
+1658331573326,2.0,null,floors_descended,count
+1658332100998,518.0,null,step_count,count
+1658332100998,356.10441864180393,null,distance,meter
+1658332100998,1.156380243267982,null,average_active_pace,seconds per meter
+1658332100998,1.0,null,floors_ascended,count
+1658332100998,2.0,null,floors_descended,count
+1658332102274,518.0,null,step_count,count
+1658332102274,356.10441864180393,null,distance,meter
+1658332102274,1.156380243267982,null,average_active_pace,seconds per meter
+1658332102274,1.0,null,floors_ascended,count
+1658332102274,2.0,null,floors_descended,count
+1658332127951,518.0,null,step_count,count
+1658332127951,356.10441864180393,null,distance,meter
+1658332127951,1.1613935995389364,null,average_active_pace,seconds per meter
+1658332127951,1.0,null,floors_ascended,count
+1658332127951,2.0,null,floors_descended,count
+1658332129236,526.0,null,step_count,count
+1658332129236,361.7844186418042,null,distance,meter
+1658332129236,1.1558011535114645,null,average_active_pace,seconds per meter
+1658332129236,1.0,null,floors_ascended,count
+1658332129236,2.0,null,floors_descended,count
+1658332403981,538.0,null,step_count,count
+1658332403981,367.7844186418042,null,distance,meter
+1658332403981,1.1986323101492253,null,average_active_pace,seconds per meter
+1658332403981,1.0,null,floors_ascended,count
+1658332403981,2.0,null,floors_descended,count
+1658332409114,542.0,null,step_count,count
+1658332409114,370.2644186418038,null,distance,meter
+1658332409114,1.197700999949814,null,average_active_pace,seconds per meter
+1658332409114,1.0,null,floors_ascended,count
+1658332409114,2.0,null,floors_descended,count
+1658332437358,550.0,null,step_count,count
+1658332437358,373.80441864180375,null,distance,meter
+1658332437358,1.209486639665825,null,average_active_pace,seconds per meter
+1658332437358,1.0,null,floors_ascended,count
+1658332437358,2.0,null,floors_descended,count
+1658332451479,566.0,null,step_count,count
+1658332451479,385.48441864180313,null,distance,meter
+1658332451479,1.1991705599692435,null,average_active_pace,seconds per meter
+1658332451479,1.0,null,floors_ascended,count
+1658332451479,2.0,null,floors_descended,count
+1658332455330,568.0,null,step_count,count
+1658332455330,386.92441864180273,null,distance,meter
+1658332455330,1.2078241832405887,null,average_active_pace,seconds per meter
+1658332455330,1.0,null,floors_ascended,count
+1658332455330,2.0,null,floors_descended,count
+1658332561887,747.0,null,step_count,count
+1658332561887,516.4978887124089,null,distance,meter
+1658332561887,1.1083278114387807,null,average_active_pace,seconds per meter
+1658332561887,1.0,null,floors_ascended,count
+1658332561887,2.0,null,floors_descended,count
+1658332568308,751.0,null,step_count,count
+1658332568308,519.2978887124082,null,distance,meter
+1658332568308,1.1105022185809474,null,average_active_pace,seconds per meter
+1658332568308,1.0,null,floors_ascended,count
+1658332568308,2.0,null,floors_descended,count
+1658332582428,768.0,null,step_count,count
+1658332582428,532.2078887124071,null,distance,meter
+1658332582428,1.109608427314299,null,average_active_pace,seconds per meter
+1658332582428,1.0,null,floors_ascended,count
+1658332582428,2.0,null,floors_descended,count
+1658332601686,784.0,null,step_count,count
+1658332601686,544.0878887124072,null,distance,meter
+1658332601686,1.1032979948896764,null,average_active_pace,seconds per meter
+1658332601686,1.0,null,floors_ascended,count
+1658332601686,2.0,null,floors_descended,count
+1658332637633,838.0,null,step_count,count
+1658332637633,579.4378887124058,null,distance,meter
+1658332637633,1.0936623647951071,null,average_active_pace,seconds per meter
+1658332637633,1.0,null,floors_ascended,count
+1658332637633,2.0,null,floors_descended,count
+1658332647905,847.0,null,step_count,count
+1658332647905,583.9678887124064,null,distance,meter
+1658332647905,1.0934222769389594,null,average_active_pace,seconds per meter
+1658332647905,1.0,null,floors_ascended,count
+1658332647905,2.0,null,floors_descended,count
+1658332649185,847.0,null,step_count,count
+1658332649185,583.9678887124064,null,distance,meter
+1658332649185,1.0934222769389594,null,average_active_pace,seconds per meter
+1658332649185,1.0,null,floors_ascended,count
+1658332649185,2.0,null,floors_descended,count
+1658332668444,861.0,null,step_count,count
+1658332668444,591.3878887124065,null,distance,meter
+1658332668444,1.0893360620069779,null,average_active_pace,seconds per meter
+1658332668444,1.0,null,floors_ascended,count
+1658332668444,2.0,null,floors_descended,count
+1658332695402,889.0,null,step_count,count
+1658332695402,608.5478887124063,null,distance,meter
+1658332695402,1.0959312292633232,null,average_active_pace,seconds per meter
+1658332695402,1.0,null,floors_ascended,count
+1658332695402,2.0,null,floors_descended,count
+1658332704388,898.0,null,step_count,count
+1658332704388,613.4078887124069,null,distance,meter
+1658332704388,1.098889527322081,null,average_active_pace,seconds per meter
+1658332704388,1.0,null,floors_ascended,count
+1658332704388,2.0,null,floors_descended,count
+1658332745468,955.0,null,step_count,count
+1658332745468,646.9778887124066,null,distance,meter
+1658332745468,1.100653551173722,null,average_active_pace,seconds per meter
+1658332745468,1.0,null,floors_ascended,count
+1658332745468,2.0,null,floors_descended,count
+1658332807088,970.0,null,step_count,count
+1658332807088,657.6678887124062,null,distance,meter
+1658332807088,1.0958167245943151,null,average_active_pace,seconds per meter
+1658332807088,1.0,null,floors_ascended,count
+1658332807088,2.0,null,floors_descended,count
+1658332848171,1046.0,null,step_count,count
+1658332848171,704.2380990432239,null,distance,meter
+1658332848171,1.0775290873410095,null,average_active_pace,seconds per meter
+1658332848171,1.0,null,floors_ascended,count
+1658332848171,2.0,null,floors_descended,count
+1658332868714,1055.0,null,step_count,count
+1658332868714,710.6318392258418,null,distance,meter
+1658332868714,1.0764152326143355,null,average_active_pace,seconds per meter
+1658332868714,1.0,null,floors_ascended,count
+1658332868714,2.0,null,floors_descended,count
+1658332872564,1055.0,null,step_count,count
+1658332872564,710.6318392258418,null,distance,meter
+1658332872564,1.0764152326143355,null,average_active_pace,seconds per meter
+1658332872564,1.0,null,floors_ascended,count
+1658332872564,2.0,null,floors_descended,count
+1658333006087,1060.0,null,step_count,count
+1658333006087,712.7818392258414,null,distance,meter
+1658333006087,1.0828216577897727,null,average_active_pace,seconds per meter
+1658333006087,1.0,null,floors_ascended,count
+1658333006087,2.0,null,floors_descended,count
+1658333007372,1062.0,null,step_count,count
+1658333007372,713.6218392258415,null,distance,meter
+1658333007372,1.083149369768007,null,average_active_pace,seconds per meter
+1658333007372,1.0,null,floors_ascended,count
+1658333007372,2.0,null,floors_descended,count
+1658333066430,1066.0,null,step_count,count
+1658333066430,715.5418392258416,null,distance,meter
+1658333066430,1.082738062674065,null,average_active_pace,seconds per meter
+1658333066430,1.0,null,floors_ascended,count
+1658333066430,2.0,null,floors_descended,count
+1658333070281,1071.0,null,step_count,count
+1658333070281,717.891839225842,null,distance,meter
+1658333070281,1.0827983406572963,null,average_active_pace,seconds per meter
+1658333070281,1.0,null,floors_ascended,count
+1658333070281,2.0,null,floors_descended,count
+1658333131911,1077.0,null,step_count,count
+1658333131911,722.2118392258417,null,distance,meter
+1658333131911,1.0962638636049213,null,average_active_pace,seconds per meter
+1658333131911,1.0,null,floors_ascended,count
+1658333131911,2.0,null,floors_descended,count
+1658333134474,1084.0,null,step_count,count
+1658333134474,727.1818392258419,null,distance,meter
+1658333134474,1.0934608849795384,null,average_active_pace,seconds per meter
+1658333134474,1.0,null,floors_ascended,count
+1658333134474,2.0,null,floors_descended,count
+1658333142178,1084.0,null,step_count,count
+1658333142178,727.1818392258419,null,distance,meter
+1658333142178,1.0934608849795384,null,average_active_pace,seconds per meter
+1658333142178,1.0,null,floors_ascended,count
+1658333142178,2.0,null,floors_descended,count
+1658333143463,1088.0,null,step_count,count
+1658333143463,730.5018392258416,null,distance,meter
+1658333143463,1.0907705260984837,null,average_active_pace,seconds per meter
+1658333143463,1.0,null,floors_ascended,count
+1658333143463,2.0,null,floors_descended,count
+1658333147311,1088.0,null,step_count,count
+1658333147311,730.5018392258416,null,distance,meter
+1658333147311,1.0907705260984837,null,average_active_pace,seconds per meter
+1658333147311,1.0,null,floors_ascended,count
+1658333147311,2.0,null,floors_descended,count
+1658333148598,1093.0,null,step_count,count
+1658333148598,732.9018392258413,null,distance,meter
+1658333148598,1.0907020840893769,null,average_active_pace,seconds per meter
+1658333148598,1.0,null,floors_ascended,count
+1658333148598,2.0,null,floors_descended,count
+1658333371991,1113.0,null,step_count,count
+1658333371991,744.1418392258411,null,distance,meter
+1658333371991,1.095928165825194,null,average_active_pace,seconds per meter
+1658333371991,1.0,null,floors_ascended,count
+1658333371991,2.0,null,floors_descended,count
+1658333374559,1116.0,null,step_count,count
+1658333374559,746.7518392258407,null,distance,meter
+1658333374559,1.0939781234796333,null,average_active_pace,seconds per meter
+1658333374559,1.0,null,floors_ascended,count
+1658333374559,2.0,null,floors_descended,count
+1658333382262,1117.0,null,step_count,count
+1658333382262,747.4418392258403,null,distance,meter
+1658333382262,1.097530819188857,null,average_active_pace,seconds per meter
+1658333382262,1.0,null,floors_ascended,count
+1658333382262,2.0,null,floors_descended,count
+1658333384829,1123.0,null,step_count,count
+1658333384829,749.84183922584,null,distance,meter
+1658333384829,1.098378518471778,null,average_active_pace,seconds per meter
+1658333384829,1.0,null,floors_ascended,count
+1658333384829,2.0,null,floors_descended,count
+1658333415645,1131.0,null,step_count,count
+1658333415645,755.8618392258395,null,distance,meter
+1658333415645,1.0979373120167102,null,average_active_pace,seconds per meter
+1658333415645,1.0,null,floors_ascended,count
+1658333415645,3.0,null,floors_descended,count
+1658333433617,1152.0,null,step_count,count
+1658333433617,771.4318392258392,null,distance,meter
+1658333433617,1.0950982279711203,null,average_active_pace,seconds per meter
+1658333433617,1.0,null,floors_ascended,count
+1658333433617,3.0,null,floors_descended,count
+1658333441321,1159.0,null,step_count,count
+1658333441321,776.4718392258392,null,distance,meter
+1658333441321,1.0992024600793435,null,average_active_pace,seconds per meter
+1658333441321,1.0,null,floors_ascended,count
+1658333441321,3.0,null,floors_descended,count
+1658333477271,1223.0,null,step_count,count
+1658333477271,822.2284896190531,null,distance,meter
+1658333477271,1.078289419492737,null,average_active_pace,seconds per meter
+1658333477271,1.0,null,floors_ascended,count
+1658333477271,3.0,null,floors_descended,count
+1658333483690,1227.0,null,step_count,count
+1658333483690,822.564541547782,null,distance,meter
+1658333483690,1.080678031083816,null,average_active_pace,seconds per meter
+1658333483690,1.0,null,floors_ascended,count
+1658333483690,3.0,null,floors_descended,count
+1658333487544,1235.0,null,step_count,count
+1658333487544,826.564541547782,null,distance,meter
+1658333487544,1.080593606416016,null,average_active_pace,seconds per meter
+1658333487544,1.0,null,floors_ascended,count
+1658333487544,3.0,null,floors_descended,count
+1658333490109,1237.0,null,step_count,count
+1658333490109,827.760157929165,null,distance,meter
+1658333490109,1.0805111905930478,null,average_active_pace,seconds per meter
+1658333490109,1.0,null,floors_ascended,count
+1658333490109,3.0,null,floors_descended,count
+1658333497814,1246.0,null,step_count,count
+1658333497814,833.010157929165,null,distance,meter
+1658333497814,1.0836234876206063,null,average_active_pace,seconds per meter
+1658333497814,1.0,null,floors_ascended,count
+1658333497814,3.0,null,floors_descended,count
+1658333522212,1249.0,null,step_count,count
+1658333522212,835.0801579291647,null,distance,meter
+1658333522212,1.0827391138564313,null,average_active_pace,seconds per meter
+1658333522212,1.0,null,floors_ascended,count
+1658333522212,3.0,null,floors_descended,count
+1658333537614,1275.0,null,step_count,count
+1658333537614,851.720157929165,null,distance,meter
+1658333537614,1.0822655844989917,null,average_active_pace,seconds per meter
+1658333537614,2.0,null,floors_ascended,count
+1658333537614,3.0,null,floors_descended,count
+1658333540185,1279.0,null,step_count,count
+1658333540185,853.680157929165,null,distance,meter
+1658333540185,1.082483190927575,null,average_active_pace,seconds per meter
+1658333540185,2.0,null,floors_ascended,count
+1658333540185,3.0,null,floors_descended,count
+1658333544036,1293.0,null,step_count,count
+1658333544036,860.1301579291649,null,distance,meter
+1658333544036,1.0825053760017223,null,average_active_pace,seconds per meter
+1658333544036,2.0,null,floors_ascended,count
+1658333544036,3.0,null,floors_descended,count
+1658333556874,1301.0,null,step_count,count
+1658333556874,863.970157929165,null,distance,meter
+1658333556874,1.0821288842072874,null,average_active_pace,seconds per meter
+1658333556874,2.0,null,floors_ascended,count
+1658333556874,3.0,null,floors_descended,count
+1658333559442,1302.0,null,step_count,count
+1658333559442,864.4501579291646,null,distance,meter
+1658333559442,1.0821314113407183,null,average_active_pace,seconds per meter
+1658333559442,2.0,null,floors_ascended,count
+1658333559442,3.0,null,floors_descended,count
+1658333595391,1308.0,null,step_count,count
+1658333595391,867.4501579291646,null,distance,meter
+1658333595391,1.0815108980509467,null,average_active_pace,seconds per meter
+1658333595391,2.0,null,floors_ascended,count
+1658333595391,3.0,null,floors_descended,count
+1658333599241,1312.0,null,step_count,count
+1658333599241,869.4901579291645,null,distance,meter
+1658333599241,1.081511338317044,null,average_active_pace,seconds per meter
+1658333599241,2.0,null,floors_ascended,count
+1658333599241,3.0,null,floors_descended,count
+1658333685259,1320.0,null,step_count,count
+1658333685259,873.4701579291641,null,distance,meter
+1658333685259,1.0838174393797428,null,average_active_pace,seconds per meter
+1658333685259,2.0,null,floors_ascended,count
+1658333685259,3.0,null,floors_descended,count
+1658333695528,1329.0,null,step_count,count
+1658333695528,877.8601579291635,null,distance,meter
+1658333695528,1.0848642135335032,null,average_active_pace,seconds per meter
+1658333695528,2.0,null,floors_ascended,count
+1658333695528,3.0,null,floors_descended,count
+1658333985677,1339.0,null,step_count,count
+1658333985677,882.8301579291638,null,distance,meter
+1658333985677,1.0872775471818725,null,average_active_pace,seconds per meter
+1658333985677,2.0,null,floors_ascended,count
+1658333985677,3.0,null,floors_descended,count
+1658333990812,1342.0,null,step_count,count
+1658333990812,884.3901579291642,null,distance,meter
+1658333990812,1.0877186304511508,null,average_active_pace,seconds per meter
+1658333990812,2.0,null,floors_ascended,count
+1658333990812,3.0,null,floors_descended,count
+1658334162841,1350.0,null,step_count,count
+1658334162841,888.2501579291638,null,distance,meter
+1658334162841,1.0924087158258078,null,average_active_pace,seconds per meter
+1658334162841,2.0,null,floors_ascended,count
+1658334162841,3.0,null,floors_descended,count
+1658334174394,1358.0,null,step_count,count
+1658334174394,892.6701579291639,null,distance,meter
+1658334174394,1.0961901046604787,null,average_active_pace,seconds per meter
+1658334174394,2.0,null,floors_ascended,count
+1658334174394,3.0,null,floors_descended,count
+1658334210343,1368.0,null,step_count,count
+1658334210343,897.6501579291635,null,distance,meter
+1658334210343,1.1049908406689017,null,average_active_pace,seconds per meter
+1658334210343,2.0,null,floors_ascended,count
+1658334210343,3.0,null,floors_descended,count
+1658334219326,1380.0,null,step_count,count
+1658334219326,904.550157929164,null,distance,meter
+1658334219326,1.1081371130161624,null,average_active_pace,seconds per meter
+1658334219326,2.0,null,floors_ascended,count
+1658334219326,3.0,null,floors_descended,count
+1658334393916,1407.0,null,step_count,count
+1658334393916,916.3201579291635,null,distance,meter
+1658334393916,1.1088979337544014,null,average_active_pace,seconds per meter
+1658334393916,2.0,null,floors_ascended,count
+1658334393916,3.0,null,floors_descended,count
+1658334396484,1407.0,null,step_count,count
+1658334396484,916.3201579291635,null,distance,meter
+1658334396484,1.1088979337544014,null,average_active_pace,seconds per meter
+1658334396484,2.0,null,floors_ascended,count
+1658334396484,3.0,null,floors_descended,count
+1658334431142,1407.0,null,step_count,count
+1658334431142,916.3201579291635,null,distance,meter
+1658334431142,1.1088979337544014,null,average_active_pace,seconds per meter
+1658334431142,2.0,null,floors_ascended,count
+1658334431142,3.0,null,floors_descended,count
+1658334432427,1413.0,null,step_count,count
+1658334432427,919.4401579291634,null,distance,meter
+1658334432427,1.1082764742182183,null,average_active_pace,seconds per meter
+1658334432427,2.0,null,floors_ascended,count
+1658334432427,3.0,null,floors_descended,count
+1658334472220,1413.0,null,step_count,count
+1658334472220,919.4401579291634,null,distance,meter
+1658334472220,1.1082764742182183,null,average_active_pace,seconds per meter
+1658334472220,2.0,null,floors_ascended,count
+1658334472220,3.0,null,floors_descended,count
+1658334481207,1432.0,null,step_count,count
+1658334481207,929.4601579291639,null,distance,meter
+1658334481207,1.106320430140608,null,average_active_pace,seconds per meter
+1658334481207,2.0,null,floors_ascended,count
+1658334481207,3.0,null,floors_descended,count
+1658335519661,1434.0,null,step_count,count
+1658335519661,930.3801579291639,null,distance,meter
+1658335519661,1.106498417436866,null,average_active_pace,seconds per meter
+1658335519661,2.0,null,floors_ascended,count
+1658335519661,3.0,null,floors_descended,count
+1658335520945,1440.0,null,step_count,count
+1658335520945,933.2001579291637,null,distance,meter
+1658335520945,1.1074745472146938,null,average_active_pace,seconds per meter
+1658335520945,2.0,null,floors_ascended,count
+1658335520945,3.0,null,floors_descended,count
+1658336368217,1448.0,null,step_count,count
+1658336368217,939.4401579291634,null,distance,meter
+1658336368217,1.1096625357696996,null,average_active_pace,seconds per meter
+1658336368217,2.0,null,floors_ascended,count
+1658336368217,3.0,null,floors_descended,count
+1658336372065,1450.0,null,step_count,count
+1658336372065,941.0401579291638,null,distance,meter
+1658336372065,1.1097581942361683,null,average_active_pace,seconds per meter
+1658336372065,2.0,null,floors_ascended,count
+1658336372065,3.0,null,floors_descended,count
+1658336374634,1450.0,null,step_count,count
+1658336374634,941.0401579291638,null,distance,meter
+1658336374634,1.1097581942361683,null,average_active_pace,seconds per meter
+1658336374634,2.0,null,floors_ascended,count
+1658336374634,3.0,null,floors_descended,count
+1658336378485,1460.0,null,step_count,count
+1658336378485,946.9401579291634,null,distance,meter
+1658336378485,1.1074190244415458,null,average_active_pace,seconds per meter
+1658336378485,2.0,null,floors_ascended,count
+1658336378485,3.0,null,floors_descended,count
+1658336390038,1464.0,null,step_count,count
+1658336390038,948.9001579291635,null,distance,meter
+1658336390038,1.1072877980116074,null,average_active_pace,seconds per meter
+1658336390038,2.0,null,floors_ascended,count
+1658336390038,3.0,null,floors_descended,count
+1658336392605,1470.0,null,step_count,count
+1658336392605,953.9401579291634,null,distance,meter
+1658336392605,1.1043183416956812,null,average_active_pace,seconds per meter
+1658336392605,2.0,null,floors_ascended,count
+1658336392605,3.0,null,floors_descended,count
+1658337845808,1470.0,null,step_count,count
+1658337845808,953.9401579291634,null,distance,meter
+1658337845808,1.1043183416956812,null,average_active_pace,seconds per meter
+1658337845808,2.0,null,floors_ascended,count
+1658337845808,3.0,null,floors_descended,count
+1658337876613,1520.0,null,step_count,count
+1658337876613,985.4233338104732,null,distance,meter
+1658337876613,1.1009336850107068,null,average_active_pace,seconds per meter
+1658337876613,2.0,null,floors_ascended,count
+1658337876613,3.0,null,floors_descended,count
+1658337894587,1523.0,null,step_count,count
+1658337894587,986.5323561835085,null,distance,meter
+1658337894587,1.1014651213762972,null,average_active_pace,seconds per meter
+1658337894587,2.0,null,floors_ascended,count
+1658337894587,4.0,null,floors_descended,count
+1658337917695,1553.0,null,step_count,count
+1658337917695,1009.836328010525,null,distance,meter
+1658337917695,1.0989293400818154,null,average_active_pace,seconds per meter
+1658337917695,2.0,null,floors_ascended,count
+1658337917695,4.0,null,floors_descended,count
+1658337920263,1558.0,null,step_count,count
+1658337920263,1017.1377022717215,null,distance,meter
+1658337920263,1.0931115504025462,null,average_active_pace,seconds per meter
+1658337920263,2.0,null,floors_ascended,count
+1658337920263,4.0,null,floors_descended,count
+1658338024255,1740.0,null,step_count,count
+1658338024255,1122.5077022717214,null,distance,meter
+1658338024255,1.0851253144832749,null,average_active_pace,seconds per meter
+1658338024255,2.0,null,floors_ascended,count
+1658338024255,4.0,null,floors_descended,count
+1658338029391,1741.0,null,step_count,count
+1658338029391,1123.0477022717214,null,distance,meter
+1658338029391,1.0849250703752187,null,average_active_pace,seconds per meter
+1658338029391,2.0,null,floors_ascended,count
+1658338029391,4.0,null,floors_descended,count
+1658338033241,1747.0,null,step_count,count
+1658338033241,1128.3277022717211,null,distance,meter
+1658338033241,1.0825860593167915,null,average_active_pace,seconds per meter
+1658338033241,2.0,null,floors_ascended,count
+1658338033241,4.0,null,floors_descended,count
+1658338064054,1751.0,null,step_count,count
+1658338064054,1131.2877022717212,null,distance,meter
+1658338064054,1.085090843198232,null,average_active_pace,seconds per meter
+1658338064054,2.0,null,floors_ascended,count
+1658338064054,4.0,null,floors_descended,count
+1658338092300,1798.0,null,step_count,count
+1658338092300,1167.4826882784664,null,distance,meter
+1658338092300,1.0751451747495704,null,average_active_pace,seconds per meter
+1658338092300,2.0,null,floors_ascended,count
+1658338092300,4.0,null,floors_descended,count

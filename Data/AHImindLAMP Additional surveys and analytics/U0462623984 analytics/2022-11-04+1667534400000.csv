@@ -1,0 +1,3 @@
+timestamp,type,page,activity
+1667565782789,open_page,assess,
+1667565787811,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 1.),"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone14,3",log,iOS

@@ -1,0 +1,4 @@
+timestamp,value,source,representation,duration
+1663405380000,1,com.tantsissa.AutoSleep,in_sleep,10980000
+1663417800000,0,com.tantsissa.AutoSleep,in_bed,23400000
+1663417800000,1,com.tantsissa.AutoSleep,in_sleep,11700000

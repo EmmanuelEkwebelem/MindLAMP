@@ -1,0 +1,11 @@
+timestamp,user_agent,type,device_token,device_type,page,activity
+1665609871546,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone11,6",login,1b0b641ec0282b032bdc9e84f86b6c022af0c96d5f72ee47e20437accb23a516,iOS,,
+1665609871549,"LAMP-dashboard/2022.8.4 Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",login,,Dashboard,,
+1665609871787,,open_page,,,assess,
+1665610117896,,open_page,,,manage,
+1665610119079,,open_page,,,assess,
+1665610120245,,open_page,,,feed,
+1665610121996,,open_page,,,learn,
+1665610125246,,open_page,,,,
+1665610125346,"LAMP-dashboard/2022.8.4 Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",logout,,Dashboard,,
+1665610125385,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone11,6",logout,,iOS,,

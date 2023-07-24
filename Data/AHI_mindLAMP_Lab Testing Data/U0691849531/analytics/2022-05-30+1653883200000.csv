@@ -1,0 +1,3 @@
+timestamp,device_type,value,user_agent,action
+1653950325393,iOS,1,"NativeCore 2022.4.23; iOS 15.4.1; iPhone iPhone11,8",lowpowermode
+1653962127163,iOS,0,"NativeCore 2022.4.23; iOS 15.4.1; iPhone iPhone11,8",lowpowermode

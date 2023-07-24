@@ -1,0 +1,12 @@
+timestamp,value,source,type,unit
+1665543779032,2773.0,null,step_count,count
+1665543779032,1723.9934943090193,null,distance,meter
+1665543779032,1.1308447616794712,null,average_active_pace,seconds per meter
+1665543779032,4.0,null,floors_ascended,count
+1665543779032,5.0,null,floors_descended,count
+1665543780305,2774.0,null,step_count,count
+1665543780305,1724.4797178930603,null,distance,meter
+1665543780305,1.1308517224880072,null,average_active_pace,seconds per meter
+1665543780305,4.0,null,floors_ascended,count
+1665543780305,5.0,null,floors_descended,count
+1665543781863,8.0,com.apple.health.5A31A8C1-FB7E-45C1-86C0-26B23E15BCF2,step_count,count

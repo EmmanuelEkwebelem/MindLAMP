@@ -1,0 +1,2 @@
+timestamp,action,message,user_agent,device_type
+1655674134821,log,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 0.),"NativeCore 2022.4.23; iOS 15.4.1; iPhone iPhone11,8",iOS

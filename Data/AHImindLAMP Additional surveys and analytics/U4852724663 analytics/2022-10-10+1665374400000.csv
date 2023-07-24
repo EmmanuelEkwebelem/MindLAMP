@@ -1,0 +1,21 @@
+timestamp,type,page,activity,user_agent,device_token,device_type
+1665414600318,open_page,34j36dmwaebpkdcf4sb0,,,,
+1665414651859,open_page,feed,34j36dmwaebpkdcf4sb0,,,
+1665414693904,open_page,,,,,
+1665414774227,open_page,34j36dmwaebpkdcf4sb0,,,,
+1665414774416,open_page,,,,,
+1665423370170,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665427754661,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665428628628,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665430345424,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665432769893,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665434061829,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665451406167,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665452484187,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665453916629,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665454845318,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665455970273,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665457246038,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665457625741,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665457829977,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS
+1665458480514,login,,,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone12,5",9a1e10e28f82ad96f92b9315a2ad493cb21f7ba62728f6958397ea825be0da0c,iOS

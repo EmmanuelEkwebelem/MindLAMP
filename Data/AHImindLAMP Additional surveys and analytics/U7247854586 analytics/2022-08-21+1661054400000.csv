@@ -1,0 +1,12 @@
+timestamp,user_agent,type,device_token,device_type,page,activity,message
+1661108419773,"NativeCore 2022.7.13; iOS 15.5; iPhone iPhone13,4",login,de021987b5d9e0037c0424e61ec19372bffa8bc44d1b3caa80ec2354ee13577a,iOS,,,
+1661108420276,,open_page,,,assess,,
+1661108420385,"NativeCore 2022.7.13; iOS 15.5; iPhone iPhone13,4",log,,iOS,,,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 1.)
+1661108422884,,open_page,,,assess,,
+1661108439272,,open_page,,,assess,5zjg4qn1cv4gbsrnxkf3,
+1661108439816,,open_page,,,assess,,
+1661108444084,,open_page,,,,,
+1661109384840,,open_page,,,assess,,
+1661109416657,,open_page,,,,,
+1661109529136,,open_page,,,assess,,
+1661109529358,,open_page,,,,,

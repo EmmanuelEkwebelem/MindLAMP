@@ -1,0 +1,4 @@
+timestamp,user_agent,type,device_token,device_type,page,activity
+1665212757002,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone10,6",login,75c0d9d1a28a86b1241187c2038118e176d79b707466187cb2d68204aa5e92e4,iOS,,
+1665212757970,,open_page,,,assess,
+1665279402367,1,"NativeCore 2022.7.13; iOS 15.6.1; iPhone iPhone10,6",lowpowermode,iOS

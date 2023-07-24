@@ -1,0 +1,8 @@
+timestamp,type,device_type,user_agent,action,device_token,page,activity
+1665789888911,login,Dashboard,"LAMP-dashboard/2022.8.4 Mozilla/5.0 (Linux; Android 9; SM-G955U Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.126 Mobile Safari/537.36",,,,
+1665789888977,,Android,NativeCore 2022.4.25; Android 9; samsung; SM-G955U,login,fN6OccspQd-XsNBesYOSfF:APA91bGxRCplVeeMA23JDsB3cnRCXGn0Nb1qmQW2dGSPkKYCRFrEtzNydD5OU4tZatEKnPRMa3NrlwTwAYRskQht45zz5cMqSBcXx0yrJkzo4MwLWWBXsAs3RXRQPohwR_bIyMBGquXw,,
+1665789889901,open_page,,,,,assess,
+1665790031497,open_page,,,,,,
+1665791650555,,Android,NativeCore 2022.4.25; Android 9; samsung; SM-G955U,login,fN6OccspQd-XsNBesYOSfF:APA91bGxRCplVeeMA23JDsB3cnRCXGn0Nb1qmQW2dGSPkKYCRFrEtzNydD5OU4tZatEKnPRMa3NrlwTwAYRskQht45zz5cMqSBcXx0yrJkzo4MwLWWBXsAs3RXRQPohwR_bIyMBGquXw,,
+1665791651497,open_page,,,,,assess,
+1665791664308,open_page,,,,,,

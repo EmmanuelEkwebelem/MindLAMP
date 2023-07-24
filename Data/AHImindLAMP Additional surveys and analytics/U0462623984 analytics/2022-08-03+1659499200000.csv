@@ -1,0 +1,7 @@
+timestamp,user_agent,type,device_token,device_type,page,activity
+1659567295584,"NativeCore 2022.7.13; iOS 15.6; iPhone iPhone14,3",login,e8c05392a9c05ffc9b1d2377f622d04f686e2395102e146e7e8d391a5eee1f0d,iOS,,
+1659567295598,"LAMP-dashboard/2022.6.16 Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",login,,Dashboard,,
+1659567296139,,open_page,,,assess,
+1659567390879,,open_page,,,,
+1659567391751,,open_page,,,assess,
+1659567393768,,open_page,,,,

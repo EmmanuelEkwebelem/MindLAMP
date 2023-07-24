@@ -1,0 +1,4 @@
+timestamp,device_type,value,user_agent,action,message
+1655393519407,iOS,1.0,"NativeCore 2022.4.23; iOS 15.4.1; iPhone iPhone11,8",lowpowermode,
+1655405753097,iOS,0.0,"NativeCore 2022.4.23; iOS 15.4.1; iPhone iPhone11,8",lowpowermode,
+1655425769310,iOS,,"NativeCore 2022.4.23; iOS 15.4.1; iPhone iPhone11,8",log,GPS Failed: The operation couldn’t be completed. (kCLErrorDomain error 0.)

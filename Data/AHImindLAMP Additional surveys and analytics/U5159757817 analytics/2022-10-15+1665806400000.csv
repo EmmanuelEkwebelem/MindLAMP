@@ -1,0 +1,21 @@
+timestamp,action,device_token,device_type,user_agent,type,page,activity
+1665808393025,login,fN6OccspQd-XsNBesYOSfF:APA91bGxRCplVeeMA23JDsB3cnRCXGn0Nb1qmQW2dGSPkKYCRFrEtzNydD5OU4tZatEKnPRMa3NrlwTwAYRskQht45zz5cMqSBcXx0yrJkzo4MwLWWBXsAs3RXRQPohwR_bIyMBGquXw,Android,NativeCore 2022.4.25; Android 9; samsung; SM-G955U,,,
+1665808393918,,,,,open_page,assess,
+1665808422538,,,,,open_page,assess,9k5z0kej6zh3r5q1f6k9
+1665808429911,,,,,open_page,assess,
+1665808526278,,,,,open_page,assess,15hx8jca34cesf051nsf
+1665808534123,,,,,open_page,assess,
+1665808579438,,,,,open_page,assess,egq26737wt9twne0kmt5
+1665808587087,,,,,open_page,assess,
+1665808661614,,,,,open_page,assess,0zhdsrc5c1mjtt6kk03z
+1665808669229,,,,,open_page,assess,
+1665808796450,,,,,open_page,assess,671gs46cyvr2xzrxydv1
+1665808804078,,,,,open_page,assess,
+1665808827964,,,,,open_page,feed,
+1665808833768,,,,,open_page,learn,
+1665808839322,,,,,open_page,manage,
+1665808844039,,,,,open_page,portal,
+1665808859198,,,,,open_page,,
+1665889287021,login,fN6OccspQd-XsNBesYOSfF:APA91bGxRCplVeeMA23JDsB3cnRCXGn0Nb1qmQW2dGSPkKYCRFrEtzNydD5OU4tZatEKnPRMa3NrlwTwAYRskQht45zz5cMqSBcXx0yrJkzo4MwLWWBXsAs3RXRQPohwR_bIyMBGquXw,Android,NativeCore 2022.4.25; Android 9; samsung; SM-G955U,,,
+1665889287835,,,,,open_page,assess,
+1665889314857,,,,,open_page,,

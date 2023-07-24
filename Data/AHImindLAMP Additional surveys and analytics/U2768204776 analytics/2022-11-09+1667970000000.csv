@@ -1,0 +1,5 @@
+timestamp,type,device_token,device_type,user_agent,page,activity
+1668000602359,login,e4D0NLZNQaqIluaKL3LhUj:APA91bE0t4qaEtfxDpTraPQQ-qD4PqvRQOrRXylkRYBaecEdNwd_b9kzSV3EkcfT9xozYmst4T6FSltCSFHop97C-M2SRxPexiqiyb6VEkmAI-DCUhWFHQbLiOQKyDJt2l19ts9DcHNa,Android,NativeCore 2022.9.13_2; Android 13; Google; Pixel 5,,
+1668000625494,open_page,,,,,
+1668000628245,open_page,,,,assess,
+1668000632118,open_page,,,,,

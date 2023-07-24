@@ -1,0 +1,8 @@
+timestamp,type,page,activity,device_type,user_agent
+1651254684143,open_page,assess,,,
+1651254786787,open_page,manage,,,
+1651254789730,open_page,portal,,,
+1651254792403,open_page,manage,,,
+1651254811845,open_page,,,,
+1651254811880,logout,,,Dashboard,"LAMP-dashboard/2022.4.23 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36"
+1651254839443,open_page,assess,,,

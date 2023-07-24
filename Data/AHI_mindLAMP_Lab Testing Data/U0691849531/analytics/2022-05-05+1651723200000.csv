@@ -1,0 +1,10 @@
+timestamp,device_type,value,user_agent,action,device_token,type,page,activity
+1651746015059,iOS,0.0,"NativeCore 2022.4.23; iOS 15.4.1; iPhone iPhone11,8",lowpowermode,,,,
+1651804565761,iOS,,"NativeCore 2022.4.23; iOS 15.4.1; iPhone iPhone11,8",login,c00bc60dd3f4d45a8afafb17ba77605a0b6a7d65f359d3e07c6f25b178ef4f50,,,
+1651804566411,,,,,,open_page,assess,
+1651804568716,,,,,,open_page,feed,
+1651804571633,,,,,,open_page,learn,
+1651804574333,,,,,,open_page,assess,
+1651804583076,,,,,,open_page,manage,
+1651804589354,,,,,,open_page,portal,
+1651804697367,,,,,,open_page,feed,
