@@ -23,8 +23,8 @@ def generate_fake_data():
         for week in range(week_count):
             current_date = start_date + timedelta(weeks=week)
             week_number = week + 1
-            survey_count = random.randint(1, 4) * user
-            data_count = random.randint(1, 7) * user
+            survey_count = random.randint(1, 4)
+            data_count = random.randint(1, 7)
             total_locations = random.randint(14, 21)
             new_locations_visited = random.randint(1, 7)
             avg_sig_locations_per_day = random.randint(1, 7)
