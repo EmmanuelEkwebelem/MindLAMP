@@ -1,0 +1,38 @@
+Survey,Question,Question Dictionary,Response Dictionary 
+"Health, Wealth, Mobility",Question 1,Little interest or pleasure in doing things,0 = Not At All
+"Health, Wealth, Mobility",Question 2,"Feeling down, depressed, or hopeless",1 = Several Days
+"Health, Wealth, Mobility",Question 3,"Trouble falling or staying asleep, or sleeping too much",2 =More Than Half The Days
+"Health, Wealth, Mobility",Question 4,Feeling tired or having little energy,3 = Nearly Every Day
+"Health, Wealth, Mobility",Question 5,Poor appetite or overeating,
+"Health, Wealth, Mobility",Question 6,Feeling bad about yourself – or that you are a failure or have let yourself or your family down,
+"Health, Wealth, Mobility",Question 7,Trouble concentrating on things such as reading a newspaper or watching television,
+"Health, Wealth, Mobility",Question 8,Moving or speaking so slowly that other people could have noticed. Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual,
+"Health, Wealth, Mobility",Question 9,"If you checked off any problem on this questionnaire so far, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?",
+Satisfaction,Question 1,I am satisfied with my current level of social activity.,0 = Not At All
+Satisfaction,Question 2,I am satisfied with my ability to do leisure activities.,1 = A Little Bit
+Satisfaction,Question 3,I am satisfied with my current level of activities with my friends.,2 = Somewhat
+Satisfaction,Question 4,I am satisfied with my ability to do things for fun at home (like reading; listening to music; etc.).,3 = Quite A Bit
+Satisfaction,Question 5,I am satisfied with my ability to perform my daily routines.,4 = Very Much 
+Satisfaction,Question 6,I am disappointed in my ability to meet the needs of my family.,
+Satisfaction,Question 7,I am bothered by my limitations in regular family activities.,
+Satisfaction,Question 8,I am disappointed in my ability to socialize with friends.,
+Satisfaction,Question 9,I am disappointed in my ability to take care of personal and household responsibilities.,
+Satisfaction,Question 10,I am bothered by limitations in performing my work (including work at home).,
+Resilience,Question 1,"Lately, I had a positive attitude ",0 = Never
+Resilience,Question 2,"Lately, I felt good about how I have coped with my injury ",1 = Rarely
+Resilience,Question 3,"Lately, I used positive ways to cope with my injury",2 = Sometimes
+Resilience,Question 4,"Lately, I felt I can get through difficult times",3 = Often
+Resilience,Question 5,"Lately, I tried to see the positive side of things ",4 = Always
+Resilience,Question 6,"Lately, I was confident that I could overcome my limitations ",
+Resilience,Question 7,"Lately, I took action to improve my life ",
+Resilience,Question 8,"Lately, I found new things to enjoy",
+Critical Events,Question 1,"An infection, such as urinary tract infection or upper respiratory infection?",1 = Yes
+Critical Events,Question 2,A hospitalization?,0 = No
+Critical Events,Question 3,"A new muscle or bone injury, or new surgery?",
+Critical Events,Question 4,Changes to the way you get around? ,
+Critical Events,Question 5,Other illness or injury?,
+Critical Events,Question 6,Any new or worsened personal or life stressors?,
+Critical Events,Question 7,Any new or worsened emotional or psychological health conditions?  ,
+Critical Events,Question 8,A positive COVID-19 test? ,
+Critical Events,Question 9,You received a COVID-19 vaccine? ,
+Critical Events,Question 10,A caregiver/someone you live with had a positive COVID-19 test?   ,
