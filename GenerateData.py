@@ -51,7 +51,7 @@ def generate_fake_data():
 
             # Generating data for Fake Survey Response Data
             surveys = {
-                'Depression': 9,
+                'Mood': 9,
                 'Satisfaction': 10,
                 'Resilience': 8,
                 'Critical Events': 10
@@ -61,10 +61,10 @@ def generate_fake_data():
                 for question in range(1, num_questions + 1):
                     if survey == 'Critical Events':
                         response = random.randint(0, 1)
-                    elif survey == 'Depression':
+                    elif survey == 'Mood':
                         response = random.randint(0, 3)
                     else:
-                        response = random.randint(0, 4)
+                        response = random.randint(1, 5)
 
                     survey_rows.append([f'User{user}', current_date.strftime('%m/%d/%Y'), week_number,
                                         survey, f'Question {question}', response])
