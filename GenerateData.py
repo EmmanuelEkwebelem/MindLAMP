@@ -15,8 +15,8 @@ def generate_fake_data():
     # CSV3: Fake Survey Response Data
     survey_rows = [['User', 'Week', 'Week Number', 'Survey', 'Question', 'Response']]
 
-    user_count = 5
-    week_count = 5 * 4  # Assuming 4 weeks per month for 5 months
+    user_count = 10
+    week_count = 52  
     start_date = datetime(2023, 1, 1)
 
     for user in range(1, user_count + 1):
